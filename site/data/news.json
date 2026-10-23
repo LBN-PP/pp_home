@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T13:10:55.202Z",
+  "generatedAt": "2026-10-23T18:19:55.615Z",
   "source": "https://www.dynatrace.com/news/",
   "categories": [
     {
@@ -16,7 +16,7 @@
     {
       "key": "application-security",
       "label": "Application security",
-      "count": 17
+      "count": 18
     },
     {
       "key": "apps-and-microservices",
@@ -36,7 +36,7 @@
     {
       "key": "company-culture",
       "label": "Company culture",
-      "count": 12
+      "count": 11
     },
     {
       "key": "devops",
@@ -91,7 +91,7 @@
     {
       "key": "product-news",
       "label": "Product news",
-      "count": 24
+      "count": 25
     },
     {
       "key": "release-notes",
@@ -115,6 +115,26 @@
     }
   ],
   "articles": [
+    {
+      "id": "https://www.dynatrace.com/news/?p=75686",
+      "title": "Vulnerability risk exposure: See exposure across monitored processes at runtime",
+      "link": "https://www.dynatrace.com/news/blog/vulnerability-risk-exposure-see-exposure-across-monitored-processes-at-runtime/",
+      "publishedAt": "2026-10-23T14:46:44.000Z",
+      "author": "Anis Bouchekhima",
+      "summary": "Dynatrace’s new Vulnerability Risk Exposure dashboard provides a consolidated view of vulnerability exposure across monitored hosts, processes, and Kubernetes environments. It identifies reported risks across these environments, helping teams prioritize remediation efforts where…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/07/BAE26574_Blog_CISA_Blog_D1-600x337.png",
+      "categories": [
+        "application-security",
+        "product-news"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "Application Security",
+        "runtime vulnerability analytics"
+      ],
+      "search": "vulnerability risk exposure: see exposure across monitored processes at runtime dynatrace’s new vulnerability risk exposure dashboard provides a consolidated view of vulnerability exposure across monitored hosts, processes, and kubernetes environments. it identifies reported risks across these environments, helping teams prioritize remediation efforts where… application security product news application security runtime vulnerability analytics"
+    },
     {
       "id": "https://www.dynatrace.com/news/?p=75674",
       "title": "Dynatrace and Cursor close the loop on AI-native development",
@@ -3673,28 +3693,6 @@
         "Digital experience"
       ],
       "search": "2025 gartner® magic quadrant™ for digital experience monitoring digital experience"
-    },
-    {
-      "id": "https://www.dynatrace.com/news/?p=71523",
-      "title": "Dynatrace achieves QC1 certification from the Italian Agency for National Cybersecurity",
-      "link": "https://www.dynatrace.com/news/blog/dynatrace-achieves-qc1-certification-from-the-italian-agency-for-national-cybersecurity/",
-      "publishedAt": "2025-10-23T18:14:49.000Z",
-      "author": "Mira Kojic",
-      "summary": "We're pleased to announce that the Dynatrace® platform is now QC1 certified following the Italian Agency for National Cybersecurity (ACN) cloud qualification process. The cloud qualification process provided by the ACN is a qualification and control process aimed at ensuring the…",
-      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/10/Blog-OTP-0290_-ACN-certification-Italy_1x-600x338.png",
-      "categories": [
-        "company-culture"
-      ],
-      "tags": [
-        "Company and culture",
-        "Product news",
-        "ACN",
-        "compliance",
-        "Dynatrace",
-        "Security",
-        "trust center"
-      ],
-      "search": "dynatrace achieves qc1 certification from the italian agency for national cybersecurity we're pleased to announce that the dynatrace® platform is now qc1 certified following the italian agency for national cybersecurity (acn) cloud qualification process. the cloud qualification process provided by the acn is a qualification and control process aimed at ensuring the… company and culture product news acn compliance dynatrace security trust center"
     }
   ]
 }
