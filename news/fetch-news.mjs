@@ -56,14 +56,6 @@ async function writeJson(path, data) {
   await writeFile(path, `${JSON.stringify(data, null, 2)}\n`, 'utf8');
 }
 
-/** Sibling `.js` module (`window.NEWS_DATA = {...}`) so the static homepage can load it
- *  with a <script> tag instead of fetch(), which browsers refuse for local file:// pages. */
-async function writeJsModule(jsonPath, globalName, data) {
-  const path = jsonPath.replace(/\.json$/, '.js');
-  await mkdir(dirname(path), { recursive: true });
-  await writeFile(path, `window.${globalName} = ${JSON.stringify(data, null, 2)};\n`, 'utf8');
-}
-
 /** Writes a key=value pair for the next workflow steps (no-op outside Actions). */
 async function setOutput(name, value) {
   if (process.env.GITHUB_OUTPUT) await appendFile(process.env.GITHUB_OUTPUT, `${name}=${value}\n`);
@@ -369,7 +361,6 @@ async function main() {
   if (newsChanged) {
     output.generatedAt = new Date().toISOString();
     await writeJson(OUTPUT_PATH, output);
-    await writeJsModule(OUTPUT_PATH, 'NEWS_DATA', output);
   }
   if (metaChanged) await writeJson(META_PATH, nextMeta);
 

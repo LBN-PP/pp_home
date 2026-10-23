@@ -755,7 +755,7 @@ main.layout {
   padding-top: 6px;
 }
 
-.empty-state {
+.empty-state, .loading-state {
   text-align: center;
   color: var(--color-text-subtle);
   padding: 50px 0;

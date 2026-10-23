@@ -4,6 +4,14 @@ window.SITE_CONFIG = {
     tagline: "Dynatrace news hub",
   },
 
+  // Published by the "Dynatrace news" GitHub Actions workflow (news/fetch-news.mjs)
+  // to the public Pages site of LBN-PP/pp_home — only site/ is published, this
+  // private repo's HTML/config/branding never are. GitHub Pages sends
+  // `Access-Control-Allow-Origin: *`, so fetch() works cross-origin with no extra setup.
+  data: {
+    newsUrl: "https://lbn-pp.github.io/pp_home/data/news.json",
+  },
+
   // Shortcuts rendered in the top bar as mini-cards (logo + name).
   // Icon resolution: by default the remote site's favicon is fetched automatically.
   // To override it, add an `svg` field with raw inline SVG markup — it takes priority.

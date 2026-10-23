@@ -10,7 +10,6 @@ news/
   feeds-meta.json                      # generated: ETag / Last-Modified per feed
 site/
   data/news.json                       # generated: the file served by Pages
-  data/news.js                         # generated: same data as window.NEWS_DATA, for the static homepage
 ```
 
 ## How it works
@@ -75,4 +74,4 @@ node fetch-news.mjs
 
 Articles are sorted newest first. `summary` and `title` are plain text: render them with `textContent`, never `innerHTML`.
 
-`news.js` carries the exact same object as `window.NEWS_DATA`, so the homepage (`../index.html`) can load it with a `<script>` tag and work when opened straight from disk — browsers block `fetch()` of local JSON files over `file://`.
+The homepage (`../index.html`) fetches this file over HTTPS from the published Pages URL (configured as `data.newsUrl` in `../config.js`) rather than reading it locally — that keeps the private repo's HTML separate from the publicly-published `site/` folder. GitHub Pages serves every file with `Access-Control-Allow-Origin: *`, so the cross-origin `fetch()` works with no extra CORS setup.
