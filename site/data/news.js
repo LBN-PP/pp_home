@@ -1,0 +1,3700 @@
+window.NEWS_DATA = {
+  "schemaVersion": 1,
+  "generatedAt": "2026-10-23T13:10:55.202Z",
+  "source": "https://www.dynatrace.com/news/",
+  "categories": [
+    {
+      "key": "ai",
+      "label": "AI",
+      "count": 24
+    },
+    {
+      "key": "aiops",
+      "label": "AIOps",
+      "count": 12
+    },
+    {
+      "key": "application-security",
+      "label": "Application security",
+      "count": 17
+    },
+    {
+      "key": "apps-and-microservices",
+      "label": "Apps and microservices",
+      "count": 1
+    },
+    {
+      "key": "automation",
+      "label": "Automation",
+      "count": 3
+    },
+    {
+      "key": "cloud-native",
+      "label": "Cloud native",
+      "count": 2
+    },
+    {
+      "key": "company-culture",
+      "label": "Company culture",
+      "count": 12
+    },
+    {
+      "key": "devops",
+      "label": "DevOps",
+      "count": 24
+    },
+    {
+      "key": "digital-experience",
+      "label": "Digital experience",
+      "count": 9
+    },
+    {
+      "key": "digital-transformation",
+      "label": "Digital transformation",
+      "count": 0
+    },
+    {
+      "key": "engineering",
+      "label": "Engineering",
+      "count": 24
+    },
+    {
+      "key": "infrastructure",
+      "label": "Infrastructure",
+      "count": 4
+    },
+    {
+      "key": "kubernetes",
+      "label": "Kubernetes",
+      "count": 3
+    },
+    {
+      "key": "log-management-and-analytics",
+      "label": "Log management and analytics",
+      "count": 3
+    },
+    {
+      "key": "observability",
+      "label": "Observability",
+      "count": 24
+    },
+    {
+      "key": "open-source",
+      "label": "Open source",
+      "count": 3
+    },
+    {
+      "key": "partners",
+      "label": "Partners",
+      "count": 24
+    },
+    {
+      "key": "product-news",
+      "label": "Product news",
+      "count": 24
+    },
+    {
+      "key": "release-notes",
+      "label": "Release notes",
+      "count": 24
+    },
+    {
+      "key": "threat-research",
+      "label": "Threat research",
+      "count": 1
+    },
+    {
+      "key": "tips-and-tricks",
+      "label": "Tips and tricks",
+      "count": 0
+    },
+    {
+      "key": "vulnerability-insights",
+      "label": "Vulnerability insights",
+      "count": 6
+    }
+  ],
+  "articles": [
+    {
+      "id": "https://www.dynatrace.com/news/?p=75674",
+      "title": "Dynatrace and Cursor close the loop on AI-native development",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-and-cursor-close-the-loop-on-ai-native-development/",
+      "publishedAt": "2026-10-22T20:21:05.000Z",
+      "author": "Philipp Hamann",
+      "summary": "AI-native tools like Cursor are changing how developers create and ship code. By working across the codebase, AI agents can take on more of the development process while developers shift their focus to the architecture. But while development speed has increased, production…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/10/DT-Cursor_Cobrand_Blog_1600x900-600x338.png",
+      "categories": [
+        "devops",
+        "partners"
+      ],
+      "tags": [
+        "DevOps",
+        "Partners",
+        "cursor",
+        "developer experience",
+        "developers",
+        "Development",
+        "DevEx",
+        "incident response",
+        "observability",
+        "partners",
+        "platform engineering",
+        "production intelligence"
+      ],
+      "search": "dynatrace and cursor close the loop on ai-native development ai-native tools like cursor are changing how developers create and ship code. by working across the codebase, ai agents can take on more of the development process while developers shift their focus to the architecture. but while development speed has increased, production… devops partners cursor developer experience developers development devex incident response observability partners platform engineering production intelligence"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75665",
+      "title": "CVE-2026-109618 & CVE-2026-109619: PHP2Shell Critical Vulnerability – what it is and what to do",
+      "link": "https://www.dynatrace.com/news/blog/cve-2026-109618-cve-2026-109619-php2shell-critical-vulnerability-what-it-is-and-what-to-do/",
+      "publishedAt": "2026-10-22T14:48:45.000Z",
+      "author": "Anis Bouchekhima",
+      "summary": "TL;DR On October 21, 2026, the PHP project released emergency updates for two critical vulnerabilities known as PHP2Shell (8.5.12, 8.4.27, 8.3.36 and 8.2.35). Both are rated CVSS 9.2, and either can allow an attacker to perform unauthenticated remote code execution. Dynatrace…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/BAE18313-RC-Security-Blog-Radar-800x450-1-600x338.png",
+      "categories": [
+        "application-security",
+        "engineering",
+        "vulnerability-insights"
+      ],
+      "tags": [
+        "Application security",
+        "Engineering",
+        "Vulnerability Insights",
+        "Application Security",
+        "engineering",
+        "Php2shell"
+      ],
+      "search": "cve-2026-109618 & cve-2026-109619: php2shell critical vulnerability – what it is and what to do tl;dr on october 21, 2026, the php project released emergency updates for two critical vulnerabilities known as php2shell (8.5.12, 8.4.27, 8.3.36 and 8.2.35). both are rated cvss 9.2, and either can allow an attacker to perform unauthenticated remote code execution. dynatrace… application security engineering vulnerability insights application security engineering php2shell"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75611",
+      "title": "Devin Oncall and Dynatrace: Bringing runtime intelligence to autonomous incident response",
+      "link": "https://www.dynatrace.com/news/blog/devin-oncall-and-dynatrace-bringing-runtime-intelligence-to-autonomous-incident-response/",
+      "publishedAt": "2026-10-15T21:58:00.000Z",
+      "author": "Philipp Hamann",
+      "summary": "We’re seeing a new challenge emerge as AI-assisted software development becomes more common: autonomous agents can generate code, propose fixes, and even open pull requests, but they still need a reliable way to understand what’s happening in production. That’s where…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/BAE4005_RC_SLED-Webinar_StateOfMI-MN_800x450_FINAL-1-600x338.png",
+      "categories": [
+        "partners",
+        "product-news"
+      ],
+      "tags": [
+        "Partners",
+        "Product news",
+        "AI agents",
+        "autonomous incident response",
+        "Devin Oncall",
+        "MCP",
+        "observability",
+        "partners",
+        "root cause analysis",
+        "runtime intelligence"
+      ],
+      "search": "devin oncall and dynatrace: bringing runtime intelligence to autonomous incident response we’re seeing a new challenge emerge as ai-assisted software development becomes more common: autonomous agents can generate code, propose fixes, and even open pull requests, but they still need a reliable way to understand what’s happening in production. that’s where… partners product news ai agents autonomous incident response devin oncall mcp observability partners root cause analysis runtime intelligence"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75608",
+      "title": "Dynatrace Release Radar 09.26",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-release-radar-09-26/",
+      "publishedAt": "2026-10-15T15:59:29.000Z",
+      "author": "Michael Winkler",
+      "summary": "This series covers recent Dynatrace releases and updates, focusing on what’s new, what’s changed, and how these enhancements can benefit you and your organization. This edition covers the capabilities rolled out in September. If you want to see September in action, head over to…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/header_release_radar-2-600x338.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "Release Radar"
+      ],
+      "search": "dynatrace release radar 09.26 this series covers recent dynatrace releases and updates, focusing on what’s new, what’s changed, and how these enhancements can benefit you and your organization. this edition covers the capabilities rolled out in september. if you want to see september in action, head over to… observability product news release radar"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75602",
+      "title": "Business Observability: A strategic imperative for financial services",
+      "link": "https://www.dynatrace.com/news/blog/business-observability-a-strategic-imperative-for-financial-services/",
+      "publishedAt": "2026-10-14T14:44:37.000Z",
+      "author": "Franco Papp",
+      "summary": "Failed payments result in lost fees and extra labor. A more concerning problem often never surfaces: transactions duplicating, steps going missing, decisions made on incomplete data. By the time those failures show up, it’s usually in a customer complaint, a failed settlement…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/Resource-Center_2x-600x338.png",
+      "categories": [
+        "observability"
+      ],
+      "tags": [
+        "Observability",
+        "Business Observability",
+        "Financial Services"
+      ],
+      "search": "business observability: a strategic imperative for financial services failed payments result in lost fees and extra labor. a more concerning problem often never surfaces: transactions duplicating, steps going missing, decisions made on incomplete data. by the time those failures show up, it’s usually in a customer complaint, a failed settlement… observability business observability financial services"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75595",
+      "title": "OpenTelemetry Collector distributions compared: Core, Contrib, OCB, and vendor builds. Which one should you use?",
+      "link": "https://www.dynatrace.com/news/blog/opentelemetry-collector-distributions-compared-core-contrib-ocb-and-vendor-builds-which-one-should-you-use/",
+      "publishedAt": "2026-10-13T20:41:38.000Z",
+      "author": "Amrith Raj",
+      "summary": "If someone has told you to “use the OpenTelemetry Collector,” you may have noticed there is no single thing to download. There’s a lean default build. There’s a much larger repository of hundreds of community-contributed components. There’s a builder tool that lets you assemble…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/OpenTelemetry-Dynatrace_high_res_ver-600x338.png",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "Engineering",
+        "opentelemetry",
+        "OpenTelemetry collector"
+      ],
+      "search": "opentelemetry collector distributions compared: core, contrib, ocb, and vendor builds. which one should you use? if someone has told you to “use the opentelemetry collector,” you may have noticed there is no single thing to download. there’s a lean default build. there’s a much larger repository of hundreds of community-contributed components. there’s a builder tool that lets you assemble… engineering opentelemetry opentelemetry collector"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75571",
+      "title": "End-to-end Snowflake Observability is now generally available in Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/end-to-end-snowflake-observability-is-now-generally-available-in-dynatrace/",
+      "publishedAt": "2026-10-12T13:30:36.000Z",
+      "author": "Michael Schachner",
+      "summary": "Dynatrace Snowflake Observability is now generally available, giving teams unified visibility into cost, performance, security, operations, and data quality through the Dynatrace Data Observability app. Guided onboarding, automated telemetry collection, and 14 ready-made…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/10/BAE28166_Blog_Image_-Snowflake_Observability_FINAL-600x337.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "data observability",
+        "data warehouse",
+        "observability",
+        "snowflake"
+      ],
+      "search": "end-to-end snowflake observability is now generally available in dynatrace dynatrace snowflake observability is now generally available, giving teams unified visibility into cost, performance, security, operations, and data quality through the dynatrace data observability app. guided onboarding, automated telemetry collection, and 14 ready-made… observability product news data observability data warehouse observability snowflake"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75538",
+      "title": "Dynatrace reaches FedRAMP Class D (High) Initial Implementation status",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-reaches-fedramp-class-d-high-initial-implementation-status/",
+      "publishedAt": "2026-10-12T12:53:00.000Z",
+      "author": "Rob Smith",
+      "summary": "The Marketplace designation gives federal agencies a clearer basis for planning around the latest Dynatrace platform while certification work continues.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/07/BAE27007_Feature_Image_Final-600x338.png",
+      "categories": [
+        "company-culture",
+        "product-news"
+      ],
+      "tags": [
+        "Company and culture",
+        "Product news",
+        "cloud modernization",
+        "federal government",
+        "FedRAMP",
+        "observability",
+        "public sector"
+      ],
+      "search": "dynatrace reaches fedramp class d (high) initial implementation status the marketplace designation gives federal agencies a clearer basis for planning around the latest dynatrace platform while certification work continues. company and culture product news cloud modernization federal government fedramp observability public sector"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75553",
+      "title": "Contain, observe, adapt: Three trends shaping agentic software development",
+      "link": "https://www.dynatrace.com/news/blog/three-trends-shaping-agentic-software-development/",
+      "publishedAt": "2026-10-08T20:49:22.000Z",
+      "author": "Klint Finley",
+      "summary": "tldr; As the real-world challenges of running AI agents in production become clear, three themes emerged at We Are Developers World Congress North America: Agent containment, observability and evaluations, and agent experience.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/07/Blog_-Modern-observability-is-no-longer-optional_-high-res-version-600x338.png",
+      "categories": [
+        "ai",
+        "devops"
+      ],
+      "tags": [
+        "AI",
+        "DevOps",
+        "agentic AI",
+        "AI agents",
+        "AI evaluations",
+        "AI Observability",
+        "observability",
+        "software development",
+        "We Are Developers"
+      ],
+      "search": "contain, observe, adapt: three trends shaping agentic software development tldr; as the real-world challenges of running ai agents in production become clear, three themes emerged at we are developers world congress north america: agent containment, observability and evaluations, and agent experience. ai devops agentic ai ai agents ai evaluations ai observability observability software development we are developers"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75547",
+      "title": "Forrester study models 466% ROI from unified observability with Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/forrester-study-models-466-roi-from-unified-observability-with-dynatrace/",
+      "publishedAt": "2026-10-08T16:37:23.000Z",
+      "author": "Greg Findlen",
+      "summary": "AI is adding new operational demands to already complex technology environments. Technology leaders must improve reliability and developer productivity, control costs, and demonstrate business value while understanding how AI models and agents affect the applications and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/10/BAE28067_Blog_Forrester-TEI_1600x900_v2_FINAL-1-600x338.png",
+      "categories": [
+        "observability"
+      ],
+      "tags": [
+        "Observability",
+        "Forrester TEI"
+      ],
+      "search": "forrester study models 466% roi from unified observability with dynatrace ai is adding new operational demands to already complex technology environments. technology leaders must improve reliability and developer productivity, control costs, and demonstrate business value while understanding how ai models and agents affect the applications and… observability forrester tei"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?post_type=analyst-reports&p=49215",
+      "title": "Forrester Consulting: The Total Economic Impact of Dynatrace",
+      "link": "https://www.dynatrace.com/resources/forrester-total-economic-impact-report-20050213/",
+      "publishedAt": "2026-10-07T14:51:25.000Z",
+      "author": "Magdalena Kohlbauer",
+      "summary": "",
+      "image": null,
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "Company and culture"
+      ],
+      "search": "forrester consulting: the total economic impact of dynatrace company and culture"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75512",
+      "title": "From symptom to fix in minutes: AI-assisted development with Dynatrace MCP",
+      "link": "https://www.dynatrace.com/news/blog/ai-assisted-development-with-dynatrace-mcp/",
+      "publishedAt": "2026-10-02T15:59:48.000Z",
+      "author": "Matthew Gardner",
+      "summary": "How Dynatrace and an AI coding assistant can bridge the gap between \"something is slow\" and \"here is the fix.” Why this matters for getting AI workloads to production.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/10/BAE28724_RC_DT-MCP_BlogImage_D1-600x338.png",
+      "categories": [
+        "ai",
+        "devops",
+        "engineering"
+      ],
+      "tags": [
+        "AI",
+        "DevOps",
+        "Engineering",
+        "MCP",
+        "MCP Server"
+      ],
+      "search": "from symptom to fix in minutes: ai-assisted development with dynatrace mcp how dynatrace and an ai coding assistant can bridge the gap between \"something is slow\" and \"here is the fix.” why this matters for getting ai workloads to production. ai devops engineering mcp mcp server"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?post_type=press-release&p=75500",
+      "title": "Dynatrace Completes Acquisition of Arize, Extending AI Observability Across the Full Development Lifecycle",
+      "link": "https://www.dynatrace.com/news/press-release/dynatrace-completes-acquisition-of-arize/",
+      "publishedAt": "2026-10-01T20:05:07.000Z",
+      "author": "Sydney Reynolds",
+      "summary": "BOSTON & SAN FRANCISCO — October 1, 2026 – Dynatrace (NYSE: DT), the leading AI-powered observability platform, today announced that it has completed its acquisition of Arize, an AI observability and evaluation platform delivering continual learning for agents. The rise of AI…",
+      "image": null,
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "AI"
+      ],
+      "search": "dynatrace completes acquisition of arize, extending ai observability across the full development lifecycle boston & san francisco — october 1, 2026 – dynatrace (nyse: dt), the leading ai-powered observability platform, today announced that it has completed its acquisition of arize, an ai observability and evaluation platform delivering continual learning for agents. the rise of ai… ai"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75475",
+      "title": "Dynatrace completes acquisition of Arize to advance full-lifecycle AI observability",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-completes-acquisition-of-arize/",
+      "publishedAt": "2026-10-01T20:00:01.000Z",
+      "author": "Steve Tack",
+      "summary": "Dynatrace has completed its acquisition of Arize. The acquisition combines Arize’s AI-native tracing, evaluation, and experimentation capabilities with Dynatrace observability across applications, infrastructure, user experiences, and business processes. Together, these…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/Arize-acquisition-600x338.png",
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "Company and culture",
+        "AI",
+        "AI agents",
+        "AI monitoring",
+        "AI Observability",
+        "Company",
+        "LLM observability"
+      ],
+      "search": "dynatrace completes acquisition of arize to advance full-lifecycle ai observability dynatrace has completed its acquisition of arize. the acquisition combines arize’s ai-native tracing, evaluation, and experimentation capabilities with dynatrace observability across applications, infrastructure, user experiences, and business processes. together, these… company and culture ai ai agents ai monitoring ai observability company llm observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75477",
+      "title": "A design refresh for every Dynatrace App, including yours",
+      "link": "https://www.dynatrace.com/news/blog/a-design-refresh-for-every-dynatrace-app-including-yours/",
+      "publishedAt": "2026-09-29T15:02:29.000Z",
+      "author": "Hartwig Salzer",
+      "summary": "If Dynatrace looks different today, that’s intentional. The design refresh incorporates customer feedback to improve the user experience by reducing visual layering on page surfaces and improving contrast in dark mode. Status and chart colors are more vibrant and easier to tell…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/09/BAE28490_Blog_Image_Strato_Design-600x337.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "Custom Apps",
+        "Design",
+        "Strato",
+        "user experience"
+      ],
+      "search": "a design refresh for every dynatrace app, including yours if dynatrace looks different today, that’s intentional. the design refresh incorporates customer feedback to improve the user experience by reducing visual layering on page surfaces and improving contrast in dark mode. status and chart colors are more vibrant and easier to tell… observability product news custom apps design strato user experience"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=68281",
+      "title": "Running the OpenTelemetry Astronomy Shop demo application with Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/opentelemetry-demo-application-with-dynatrace/",
+      "publishedAt": "2026-09-24T16:05:28.000Z",
+      "author": "Mikko Viitanen",
+      "summary": "Many companies are interested in experimenting with the OpenTelemetry observability standard, but have suffered from the lack of a good reference implementation. Now with Astronomy Shop, the OpenTelemetry demo app, organizations can kick the tires using multiple sample…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/03/Blog_-OTP-0093_-high-res-version-600x338.png",
+      "categories": [
+        "engineering",
+        "observability",
+        "open-source"
+      ],
+      "tags": [
+        "Engineering",
+        "Observability",
+        "Open Source",
+        "astronomy shop",
+        "distributed tracing app",
+        "open source",
+        "opentelemetry",
+        "opentelemetry demo"
+      ],
+      "search": "running the opentelemetry astronomy shop demo application with dynatrace many companies are interested in experimenting with the opentelemetry observability standard, but have suffered from the lack of a good reference implementation. now with astronomy shop, the opentelemetry demo app, organizations can kick the tires using multiple sample… engineering observability open source astronomy shop distributed tracing app open source opentelemetry opentelemetry demo"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75463",
+      "title": "Dynatrace achieves ISO/IEC 42001 certification",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-achieves-iso-iec-42001-certification/",
+      "publishedAt": "2026-09-23T19:25:22.000Z",
+      "author": "Zachary Kilhoffer",
+      "summary": "Dynatrace has achieved the international standard certification for AI management systems, ISO/IEC 42001:2023. The certification applies to the AI management systems (AIMS) supporting the Dynatrace platform, including the AI-powered capabilities Dynatrace develops and embeds in…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/09/BAEXXXX_Blog_Image_ISO42001_FINAL-600x338.png",
+      "categories": [
+        "ai",
+        "product-news"
+      ],
+      "tags": [
+        "AI",
+        "Product news",
+        "compliance",
+        "Dynatrace Intelligence",
+        "Security",
+        "trust center"
+      ],
+      "search": "dynatrace achieves iso/iec 42001 certification dynatrace has achieved the international standard certification for ai management systems, iso/iec 42001:2023. the certification applies to the ai management systems (aims) supporting the dynatrace platform, including the ai-powered capabilities dynatrace develops and embeds in… ai product news compliance dynatrace intelligence security trust center"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75264",
+      "title": "From insight to innovation: How Kiro Crew, Dynatrace, and AWS are helping teams do more",
+      "link": "https://www.dynatrace.com/news/blog/from-insight-to-innovation-how-kiro-crew-dynatrace-and-aws-are-helping-teams-do-more/",
+      "publishedAt": "2026-09-23T00:07:22.000Z",
+      "author": "Erick Leon",
+      "summary": "Modern businesses are sitting on a goldmine of information. Your observability data can help you understand what is breaking, what is underperforming, and where your next improvement should come from. The gap isn’t data – it is the distance between seeing something and being…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/BAE28312_Blog_Image_Kiro_Dt_AWS_D2-600x337.png",
+      "categories": [
+        "observability",
+        "partners"
+      ],
+      "tags": [
+        "Observability",
+        "Partners",
+        "AI",
+        "AWS",
+        "Kiro"
+      ],
+      "search": "from insight to innovation: how kiro crew, dynatrace, and aws are helping teams do more modern businesses are sitting on a goldmine of information. your observability data can help you understand what is breaking, what is underperforming, and where your next improvement should come from. the gap isn’t data – it is the distance between seeing something and being… observability partners ai aws kiro"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75439",
+      "title": "Your pod may be requesting 25× more CPU than you think — and Kubernetes won’t tell you",
+      "link": "https://www.dynatrace.com/news/blog/your-pod-may-be-requesting-25x-more-cpu-than-you-think/",
+      "publishedAt": "2026-09-18T15:23:05.000Z",
+      "author": "Gergely Puskas",
+      "summary": "You’ve run kubectl describe pod. Your dashboard shows 40 millicores requested for the api-server container. You probably assumed your monitoring had the full picture. The Kubernetes scheduler actually reserved 1000 millicores — a full CPU core — for it. How could both values be…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/05/b0918946-6537-441d-94eb-05a9f5bd08b4-2-600x338.png",
+      "categories": [
+        "engineering",
+        "kubernetes",
+        "observability"
+      ],
+      "tags": [
+        "Engineering",
+        "Kubernetes",
+        "Observability",
+        "kubernetes",
+        "platform engineering"
+      ],
+      "search": "your pod may be requesting 25× more cpu than you think — and kubernetes won’t tell you you’ve run kubectl describe pod. your dashboard shows 40 millicores requested for the api-server container. you probably assumed your monitoring had the full picture. the kubernetes scheduler actually reserved 1000 millicores — a full cpu core — for it. how could both values be… engineering kubernetes observability kubernetes platform engineering"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75410",
+      "title": "Dynatrace Release Radar 08.26",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-release-radar-08-26/",
+      "publishedAt": "2026-09-15T19:17:30.000Z",
+      "author": "Michael Winkler",
+      "summary": "This series covers recent Dynatrace releases and updates, focusing on what’s new, what’s changed, and how these recent enhancements can benefit you and your organization. Each post covers newly available capabilities and where to explore them.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/header_release_radar-2-600x338.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "dashboards",
+        "distributed tracing",
+        "Dynatrace Assist",
+        "Infrastructure Observability",
+        "kubernetes",
+        "logs",
+        "OpenPipeline",
+        "Release Radar",
+        "Security"
+      ],
+      "search": "dynatrace release radar 08.26 this series covers recent dynatrace releases and updates, focusing on what’s new, what’s changed, and how these recent enhancements can benefit you and your organization. each post covers newly available capabilities and where to explore them. observability product news dashboards distributed tracing dynatrace assist infrastructure observability kubernetes logs openpipeline release radar security"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75382",
+      "title": "Investigate production issues from Cursor with the Dynatrace plugin",
+      "link": "https://www.dynatrace.com/news/blog/investigate-production-issues-from-cursor-with-the-dynatrace-plugin/",
+      "publishedAt": "2026-09-11T12:49:59.000Z",
+      "author": "Philipp Hamann",
+      "summary": "Dynatrace is now listed in the Cursor Marketplace as a verified plugin. One install connects Cursor to your Dynatrace environment through the Model Context Protocol (MCP) server and loads 30 Dynatrace skills, giving Cursor access to live Dynatrace data and the context to…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/Ready-made-agent-Blog-FINAL-2048x1152-1-600x338.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "Agentic ecosystem",
+        "AI",
+        "Dynatrace Intelligence",
+        "MCP Server"
+      ],
+      "search": "investigate production issues from cursor with the dynatrace plugin dynatrace is now listed in the cursor marketplace as a verified plugin. one install connects cursor to your dynatrace environment through the model context protocol (mcp) server and loads 30 dynatrace skills, giving cursor access to live dynatrace data and the context to… observability product news agentic ecosystem ai dynatrace intelligence mcp server"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75358",
+      "title": "Connect OpenTelemetry signals end-to-end with Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/connect-opentelemetry-signals-end-to-end-with-dynatrace/",
+      "publishedAt": "2026-09-11T12:11:25.000Z",
+      "author": "Kayla Bondy",
+      "summary": "OpenTelemetry standardizes how organizations collect traces, metrics, and logs. Dynatrace adds the topology and context needed to connect that telemetry across user experiences, services, databases, hosts, and AI workloads. This connected context means you can spend less time…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/OpenTelemetry-Dynatrace_high_res_ver-600x338.png",
+      "categories": [
+        "open-source",
+        "product-news"
+      ],
+      "tags": [
+        "Open Source",
+        "Product news",
+        "AI",
+        "DEM",
+        "observability",
+        "open source",
+        "Open Telemetry"
+      ],
+      "search": "connect opentelemetry signals end-to-end with dynatrace opentelemetry standardizes how organizations collect traces, metrics, and logs. dynatrace adds the topology and context needed to connect that telemetry across user experiences, services, databases, hosts, and ai workloads. this connected context means you can spend less time… open source product news ai dem observability open source open telemetry"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75375",
+      "title": "Runtime is where code tells the truth. Are you listening?",
+      "link": "https://www.dynatrace.com/news/blog/runtime-is-where-code-tells-the-truth-are-you-listening/",
+      "publishedAt": "2026-09-09T16:24:40.000Z",
+      "author": "Klint Finley",
+      "summary": "On September 24, some 10,000 developers gathered at WeAreDevelopers Americas 2026 in San Jose to discuss the future of software development.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/10/Blog_-FI-Req-PNB-Developing-custom-apps_-high-res-version-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "developer experience",
+        "Runtime"
+      ],
+      "search": "runtime is where code tells the truth. are you listening? on september 24, some 10,000 developers gathered at wearedevelopers americas 2026 in san jose to discuss the future of software development. devops developer experience runtime"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75368",
+      "title": "How to tackle platform engineering’s biggest challenges in 2026",
+      "link": "https://www.dynatrace.com/news/blog/how-to-tackle-platform-engineerings-biggest-challenges-in-2026/",
+      "publishedAt": "2026-09-08T19:53:05.000Z",
+      "author": "Klint Finley",
+      "summary": "Platform engineering is making real progress, but fragmented tooling, uneven automation gains, and new AI governance demands are keeping teams from realizing their full potential. The data shows where teams are getting stuck and what they can do to move forward.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/Blog_-Automation-2_-web-res-version-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "platform engineering"
+      ],
+      "search": "how to tackle platform engineering’s biggest challenges in 2026 platform engineering is making real progress, but fragmented tooling, uneven automation gains, and new ai governance demands are keeping teams from realizing their full potential. the data shows where teams are getting stuck and what they can do to move forward. devops platform engineering"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75342",
+      "title": "AI is changing the reliability game for SREs",
+      "link": "https://www.dynatrace.com/news/blog/ai-is-changing-the-reliability-game-for-sres/",
+      "publishedAt": "2026-09-01T16:50:28.000Z",
+      "author": "Klint Finley",
+      "summary": "SRE is maturing, but AI workloads are making reliability harder to define, validate, and automate. The data points to a clear pattern: teams have adopted the right practices, but they need better context and real-time visibility to make those practices work for AI-era systems.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/01/Blog_-SRE-blog-RC-image_-high-resolution-1-1-600x338.png",
+      "categories": [
+        "aiops",
+        "observability"
+      ],
+      "tags": [
+        "AIOps",
+        "Observability",
+        "AI",
+        "Reliability",
+        "site reliability engineering",
+        "SRE"
+      ],
+      "search": "ai is changing the reliability game for sres sre is maturing, but ai workloads are making reliability harder to define, validate, and automate. the data points to a clear pattern: teams have adopted the right practices, but they need better context and real-time visibility to make those practices work for ai-era systems. aiops observability ai reliability site reliability engineering sre"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75316",
+      "title": "Scale Synthetic monitoring with granular and team-scoped access control",
+      "link": "https://www.dynatrace.com/news/blog/scale-synthetic-monitoring-with-granular-and-team-scoped-access-control/",
+      "publishedAt": "2026-08-31T16:41:37.000Z",
+      "author": "Christian Schwendemann",
+      "summary": "Scaling up your observability practice often creates access control challenges. Synthetic monitoring is no exception. As more teams rely on synthetic tests to validate releases, automate operational workflows, and monitor the availability of AI or web services, more users and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/10/Blog_-FI-Req-PNB-Observability-vs-Monitoring-copy_-high-res-version-600x338.png",
+      "categories": [
+        "digital-experience",
+        "product-news"
+      ],
+      "tags": [
+        "Digital experience",
+        "Product news",
+        "DEM",
+        "Digital Experience Monitoring",
+        "synthetic monitoring"
+      ],
+      "search": "scale synthetic monitoring with granular and team-scoped access control scaling up your observability practice often creates access control challenges. synthetic monitoring is no exception. as more teams rely on synthetic tests to validate releases, automate operational workflows, and monitor the availability of ai or web services, more users and… digital experience product news dem digital experience monitoring synthetic monitoring"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75299",
+      "title": "Investigate user sessions end-to-end with the new Session Replay",
+      "link": "https://www.dynatrace.com/news/blog/investigate-user-sessions-end-to-end-with-the-new-session-replay/",
+      "publishedAt": "2026-08-31T14:35:29.000Z",
+      "author": "Christian Schwendemann",
+      "summary": "From failed checkouts to disputed transactions, when something goes wrong in a digital customer journey, you often need more than metrics or events. You need to see what the user saw, what they did, and what exactly happened in the end-user browser or mobile application. The new…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/BAE_Blog_Image_Session_Reply_D1-600x337.png",
+      "categories": [
+        "digital-experience",
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Digital experience",
+        "Observability",
+        "Product news",
+        "DEM",
+        "RUM",
+        "session replay"
+      ],
+      "search": "investigate user sessions end-to-end with the new session replay from failed checkouts to disputed transactions, when something goes wrong in a digital customer journey, you often need more than metrics or events. you need to see what the user saw, what they did, and what exactly happened in the end-user browser or mobile application. the new… digital experience observability product news dem rum session replay"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75338",
+      "title": "Dynatrace Managed release notes version 1.346",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-managed-release-notes-version-1-346/",
+      "publishedAt": "2026-08-31T06:23:06.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace Managed version 1.346. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/Managed_Release_notes_3-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "Managed",
+        "What's new"
+      ],
+      "search": "dynatrace managed release notes version 1.346 we have released dynatrace managed version 1.346. to learn what’s new, have a look at the release notes. product news release notes managed what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75286",
+      "title": "OpenTelemetry series: Anatomy of an OTel span",
+      "link": "https://www.dynatrace.com/news/blog/opentelemetry-series-anatomy-of-an-otel-span/",
+      "publishedAt": "2026-08-28T18:39:44.000Z",
+      "author": "Amrith Raj",
+      "summary": "Today, the world is using LLM applications like never before, from the chatbots, assistants, and AI agents you type a question into and get an answer back from. Behind that simple back-and-forth, LLM applications do much of their work out of view, from retrieving context and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/OpenTelemetry-Dynatrace_high_res_ver-600x338.png",
+      "categories": [
+        "devops",
+        "engineering"
+      ],
+      "tags": [
+        "DevOps",
+        "Engineering",
+        "opentelemetry"
+      ],
+      "search": "opentelemetry series: anatomy of an otel span today, the world is using llm applications like never before, from the chatbots, assistants, and ai agents you type a question into and get an answer back from. behind that simple back-and-forth, llm applications do much of their work out of view, from retrieving context and… devops engineering opentelemetry"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75279",
+      "title": "From AI experiments to business outcomes: How to measure what matters",
+      "link": "https://www.dynatrace.com/news/blog/how-to-measure-ai-roi-with-business-observability/",
+      "publishedAt": "2026-08-27T18:22:37.000Z",
+      "author": "Alistair Emslie",
+      "summary": "Enterprise AI spending has never been higher. But when boards ask their teams to show the return, most organizations struggle to give a clear answer; not because AI isn’t delivering, but because they’re not measuring the right things.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/Blog-OTP-Observability-for-Agentic-AI-600x338.png",
+      "categories": [
+        "observability"
+      ],
+      "tags": [
+        "Observability",
+        "AI",
+        "Business Observability"
+      ],
+      "search": "from ai experiments to business outcomes: how to measure what matters enterprise ai spending has never been higher. but when boards ask their teams to show the return, most organizations struggle to give a clear answer; not because ai isn’t delivering, but because they’re not measuring the right things. observability ai business observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75271",
+      "title": "OneAgent release notes version 1.345",
+      "link": "https://www.dynatrace.com/news/blog/oneagent-release-notes-version-1-345/",
+      "publishedAt": "2026-08-27T08:30:19.000Z",
+      "author": "Jaroslaw Orlowski",
+      "summary": "We have released Dynatrace OneAgent and ActiveGate version 1.345. To learn what’s new, have a look at: OneAgent release notes ActiveGate release notes",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/OneAgent_Release_notes_3-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "ActiveGate",
+        "OneAgent"
+      ],
+      "search": "oneagent release notes version 1.345 we have released dynatrace oneagent and activegate version 1.345. to learn what’s new, have a look at: oneagent release notes activegate release notes product news release notes activegate oneagent"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75267",
+      "title": "What’s new in Dynatrace SaaS version 1.346",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-346/",
+      "publishedAt": "2026-08-27T08:23:05.000Z",
+      "author": "Jaroslaw Orlowski",
+      "summary": "We have released Dynatrace version 1.346. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.346 we have released dynatrace version 1.346. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75257",
+      "title": "Bring observability to SCADA systems in operational technology environments",
+      "link": "https://www.dynatrace.com/news/blog/bring-observability-to-scada-systems-in-operational-technology-environments/",
+      "publishedAt": "2026-08-26T20:25:28.000Z",
+      "author": "Amrith Raj",
+      "summary": "Step outside your home. The water flowing from your tap, the tolls collected on the highway, the gas that heats your stove, and the power delivered to your city. None of it runs on a web app or a mobile dashboard. It runs on something many people have never heard of: operational…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/Blog_-OTP-0063_-Embrace-enterprise-wide-observability-and-security-with-Foundation-Discovery_-high-res-version-1-1-600x338.png",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "Engineering",
+        "Dynatrace",
+        "Dynatrace Grail",
+        "infrastructure monitoring",
+        "Operational Technology",
+        "OT Observability",
+        "SCADA",
+        "Schneider Electric"
+      ],
+      "search": "bring observability to scada systems in operational technology environments step outside your home. the water flowing from your tap, the tolls collected on the highway, the gas that heats your stove, and the power delivered to your city. none of it runs on a web app or a mobile dashboard. it runs on something many people have never heard of: operational… engineering dynatrace dynatrace grail infrastructure monitoring operational technology ot observability scada schneider electric"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75216",
+      "title": "From millions of log lines to actionable patterns in seconds with log pattern analysis",
+      "link": "https://www.dynatrace.com/news/blog/from-millions-of-log-lines-to-actionable-patterns-in-seconds-with-logs-pattern-analysis/",
+      "publishedAt": "2026-08-25T16:34:15.000Z",
+      "author": "Christian Schwendemann",
+      "summary": "Logs provide the ground truth of what's happening across your systems — but finding meaningful signals in that data can feel like searching for a needle in a haystack. A single Kubernetes cluster can generate thousands of nearly identical log messages within minutes, originating…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/10/Blog__OTP_0055___Dynatrace_log_collection_from_ARM__high_res_version-600x338.jpg",
+      "categories": [
+        "log-management-and-analytics",
+        "product-news"
+      ],
+      "tags": [
+        "Log Management and Analytics",
+        "Product news",
+        "AI",
+        "log management",
+        "logs"
+      ],
+      "search": "from millions of log lines to actionable patterns in seconds with log pattern analysis logs provide the ground truth of what's happening across your systems — but finding meaningful signals in that data can feel like searching for a needle in a haystack. a single kubernetes cluster can generate thousands of nearly identical log messages within minutes, originating… log management and analytics product news ai log management logs"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75141",
+      "title": "SRE best practices and platform engineering trends: How AI workloads raise demands on observability to meet reliability requirements",
+      "link": "https://www.dynatrace.com/news/blog/sre-best-practices-platform-engineering-trends/",
+      "publishedAt": "2026-08-25T12:50:19.000Z",
+      "author": "Greg Findlen",
+      "summary": "AI workloads are reshaping SRE and platform engineering. New Dynatrace research shows how AI is changing SRE and platform engineering in two ways: teams are using AI to streamline and scale IT and DevOps while taking on greater responsibility for the reliability, performance…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/BAE24189-RC-state-sre-pe-2026-findings-800x450-FINAL-600x338.png",
+      "categories": [
+        "aiops",
+        "devops",
+        "observability"
+      ],
+      "tags": [
+        "AIOps",
+        "DevOps",
+        "Observability",
+        "AI Observability",
+        "platform engineering",
+        "site reliability engineering"
+      ],
+      "search": "sre best practices and platform engineering trends: how ai workloads raise demands on observability to meet reliability requirements ai workloads are reshaping sre and platform engineering. new dynatrace research shows how ai is changing sre and platform engineering in two ways: teams are using ai to streamline and scale it and devops while taking on greater responsibility for the reliability, performance… aiops devops observability ai observability platform engineering site reliability engineering"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75223",
+      "title": "How to connect Dynatrace MCP to Microsoft Teams using Copilot Studio",
+      "link": "https://www.dynatrace.com/news/blog/how-to-connect-dynatrace-mcp-to-microsoft-teams-using-copilot-studio/",
+      "publishedAt": "2026-08-24T21:14:16.000Z",
+      "author": "Franco Papp",
+      "summary": "A product leader notices a dip in checkout conversions shortly after a release. So they ask on Microsoft Teams: ”Are customers abandoning checkout because of the new experience, or is something else going on?” An engineer starts pulling together information from multiple places…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog_PNB_Launch-Remote-MCP-Server_web-res-version-1-600x338.png",
+      "categories": [
+        "observability"
+      ],
+      "tags": [
+        "Observability",
+        "AI",
+        "Business Observability",
+        "MCP"
+      ],
+      "search": "how to connect dynatrace mcp to microsoft teams using copilot studio a product leader notices a dip in checkout conversions shortly after a release. so they ask on microsoft teams: ”are customers abandoning checkout because of the new experience, or is something else going on?” an engineer starts pulling together information from multiple places… observability ai business observability mcp"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75198",
+      "title": "Modern log management just got simpler: Resilience and self-service upgrades for log ingestion",
+      "link": "https://www.dynatrace.com/news/blog/modern-log-management-resilience-and-self-service-upgrades-for-log-ingestion/",
+      "publishedAt": "2026-08-24T15:50:23.000Z",
+      "author": "Christian Schwendemann",
+      "summary": "Logs are where observability gets real — and where it gets messy. Volumes spike without warning. A rule that looked right yesterday can silently drop a critical source after source code changes, or go completely silent if an API token rotates and expires. Imagine it’s 2 AM and a…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/Blog-OTP-0170_Network-Availability-Monitoring_1x-600x338.png",
+      "categories": [
+        "log-management-and-analytics",
+        "product-news"
+      ],
+      "tags": [
+        "Log Management and Analytics",
+        "Product news",
+        "compliance",
+        "Data Archival",
+        "Data Egress",
+        "Data Science",
+        "Forwarding",
+        "log management",
+        "logs",
+        "Metrics",
+        "MLOps",
+        "observability",
+        "OpenPipeline",
+        "Pipeline Management",
+        "spans",
+        "Telemetry pipelines",
+        "traces"
+      ],
+      "search": "modern log management just got simpler: resilience and self-service upgrades for log ingestion logs are where observability gets real — and where it gets messy. volumes spike without warning. a rule that looked right yesterday can silently drop a critical source after source code changes, or go completely silent if an api token rotates and expires. imagine it’s 2 am and a… log management and analytics product news compliance data archival data egress data science forwarding log management logs metrics mlops observability openpipeline pipeline management spans telemetry pipelines traces"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75098",
+      "title": "Create histogram metrics at ingest with OpenPipeline",
+      "link": "https://www.dynatrace.com/news/blog/create-histogram-metrics-at-ingest-with-openpipeline/",
+      "publishedAt": "2026-08-14T10:21:17.000Z",
+      "author": "Christoph Enzinger",
+      "summary": "Histogram metrics preserve the full distribution of your observability data, enabling accurate percentile analysis and service-level objective (SLO) measurement. Dynatrace now extracts histogram metrics from spans and logs during ingestion with OpenPipeline, so you can capture…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/04/1230751174-600x338.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "Grail",
+        "histogram metrics",
+        "Metrics",
+        "OpenPipeline",
+        "opentelemetry",
+        "percentiles",
+        "SLO"
+      ],
+      "search": "create histogram metrics at ingest with openpipeline histogram metrics preserve the full distribution of your observability data, enabling accurate percentile analysis and service-level objective (slo) measurement. dynatrace now extracts histogram metrics from spans and logs during ingestion with openpipeline, so you can capture… observability product news grail histogram metrics metrics openpipeline opentelemetry percentiles slo"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75114",
+      "title": "Dynatrace Release Radar 07.26",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-release-radar-07-26/",
+      "publishedAt": "2026-08-14T10:13:52.000Z",
+      "author": "Michael Winkler",
+      "summary": "This series covers recent Dynatrace releases and updates, focusing on what’s new, what’s changed, and how these recent enhancements can benefit you and your organization. Each post covers newly available capabilities and where to explore them.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/header_release_radar-2-600x338.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "database monitoring",
+        "digital experience",
+        "Fleet Management",
+        "Release Radar",
+        "Services"
+      ],
+      "search": "dynatrace release radar 07.26 this series covers recent dynatrace releases and updates, focusing on what’s new, what’s changed, and how these recent enhancements can benefit you and your organization. each post covers newly available capabilities and where to explore them. observability product news database monitoring digital experience fleet management release radar services"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75104",
+      "title": "End-to-end observability at scale starts with knowing what you’re running",
+      "link": "https://www.dynatrace.com/news/blog/end-to-end-observability-at-scale-starts-with-knowing-what-youre-running/",
+      "publishedAt": "2026-08-14T10:12:57.000Z",
+      "author": "Sonika Malik",
+      "summary": "Dynatrace Fleet Management gives administrators a single app to monitor, manage, and install OneAgent and ActiveGate components across large environments.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/BAE27662_Blog_Fleet_Management-600x337.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "ActiveGate",
+        "Fleet Management",
+        "OneAgent"
+      ],
+      "search": "end-to-end observability at scale starts with knowing what you’re running dynatrace fleet management gives administrators a single app to monitor, manage, and install oneagent and activegate components across large environments. observability product news activegate fleet management oneagent"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75071",
+      "title": "Dynatrace and Arize bring full-lifecycle observability to AI applications",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-intends-to-acquire-arize/",
+      "publishedAt": "2026-08-13T10:00:21.000Z",
+      "author": "Steve Tack",
+      "summary": "The combination of Dynatrace and Arize will bring together AI-native evaluation, open AI instrumentation, and unified observability to help organizations evaluate, operate, and continuously improve AI applications from development through production at enterprise scale.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/Arize-acquisition-600x338.png",
+      "categories": [
+        "ai",
+        "observability"
+      ],
+      "tags": [
+        "AI",
+        "Observability"
+      ],
+      "search": "dynatrace and arize bring full-lifecycle observability to ai applications the combination of dynatrace and arize will bring together ai-native evaluation, open ai instrumentation, and unified observability to help organizations evaluate, operate, and continuously improve ai applications from development through production at enterprise scale. ai observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75066",
+      "title": "What’s new in Dynatrace SaaS version 1.345",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-345/",
+      "publishedAt": "2026-08-11T16:10:36.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.345. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.345 we have released dynatrace version 1.345. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74998",
+      "title": "Turn Databricks telemetry into actionable decisions with Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/turn-databricks-telemetry-into-actionable-decisions-with-dynatrace/",
+      "publishedAt": "2026-08-11T12:44:37.000Z",
+      "author": "Kyra Hinnegan",
+      "summary": "Dynatrace simplifies Databricks observability by unifying cost, performance, job health, and security insights in one place—enabling faster, data‑driven decisions for FinOps, DevOps, and platform teams.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/Resource-Center_2x-600x338.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "Cloud Operations",
+        "extensions",
+        "root cause analysis",
+        "telemetry"
+      ],
+      "search": "turn databricks telemetry into actionable decisions with dynatrace dynatrace simplifies databricks observability by unifying cost, performance, job health, and security insights in one place—enabling faster, data‑driven decisions for finops, devops, and platform teams. observability product news cloud operations extensions root cause analysis telemetry"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75037",
+      "title": "CVE-2026-34046: Broken authorization in Langflow exposes user flows",
+      "link": "https://www.dynatrace.com/news/blog/cve-2026-34046-broken-authorization-in-langflow-exposes-user-flows/",
+      "publishedAt": "2026-08-07T17:25:56.000Z",
+      "author": "Anis Bouchekhima",
+      "summary": "Dynatrace Security Researchers discovered a zero-day vulnerability in Langflow that allows any authenticated user to read, modify, or delete flows belonging to other users. Disclosed as CVE-2026-34046, this is a high severity vulnerability with a CVSS score of 8.7, affecting…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/10/BAE18313-RC-Security-Blog-Threat-800x450-1-600x338.png",
+      "categories": [
+        "application-security",
+        "threat-research",
+        "vulnerability-insights"
+      ],
+      "tags": [
+        "Application security",
+        "Threat Research",
+        "Vulnerability Insights",
+        "Application Security",
+        "cve",
+        "threat research",
+        "vulnerability",
+        "zero-day"
+      ],
+      "search": "cve-2026-34046: broken authorization in langflow exposes user flows dynatrace security researchers discovered a zero-day vulnerability in langflow that allows any authenticated user to read, modify, or delete flows belonging to other users. disclosed as cve-2026-34046, this is a high severity vulnerability with a cvss score of 8.7, affecting… application security threat research vulnerability insights application security cve threat research vulnerability zero-day"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75025",
+      "title": "Why AI agents need an AI lakehouse in the modern enterprise",
+      "link": "https://www.dynatrace.com/news/blog/why-ai-agents-need-an-ai-lakehouse-in-the-modern-enterprise/",
+      "publishedAt": "2026-08-06T19:22:44.000Z",
+      "author": "Bernd Greifeneder",
+      "summary": "Agentic AI and autonomous operations are demanding more from observability data architectures. Agents can't infer missing context, so data must arrive pre-connected, meaningful, and real-time. The AI lakehouse is emerging as the solution to unify data and provide semantic…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/BAE-27738_AI-lakehouse_Blog_feature-image_800x450-600x338.png",
+      "categories": [
+        "ai",
+        "aiops",
+        "automation",
+        "infrastructure"
+      ],
+      "tags": [
+        "AI",
+        "AIOps",
+        "Automation",
+        "Infrastructure",
+        "AI lakehouse",
+        "data lakehouse"
+      ],
+      "search": "why ai agents need an ai lakehouse in the modern enterprise agentic ai and autonomous operations are demanding more from observability data architectures. agents can't infer missing context, so data must arrive pre-connected, meaningful, and real-time. the ai lakehouse is emerging as the solution to unify data and provide semantic… ai aiops automation infrastructure ai lakehouse data lakehouse"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75016",
+      "title": "The US government just rewrote the rules on federal logging",
+      "link": "https://www.dynatrace.com/news/blog/the-us-government-just-rewrote-the-rules-on-federal-logging/",
+      "publishedAt": "2026-08-06T14:11:18.000Z",
+      "author": "Willie Hicks",
+      "summary": "Key takeaways The US Office of Management and Budget (OMB) has replaced its 2021 logging mandate. M-26-14 rescinds M-21-31 and shifts federal agencies away from broad collection and retention requirements towards a risk-based, prioritized logging approach. The new guidance…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/12/Blog__Log_Management_and_Analytics__web_res_version-600x338.png",
+      "categories": [
+        "observability"
+      ],
+      "tags": [
+        "Observability",
+        "Federal",
+        "log management and analytics",
+        "logs",
+        "public sector",
+        "telemetry"
+      ],
+      "search": "the us government just rewrote the rules on federal logging key takeaways the us office of management and budget (omb) has replaced its 2021 logging mandate. m-26-14 rescinds m-21-31 and shifts federal agencies away from broad collection and retention requirements towards a risk-based, prioritized logging approach. the new guidance… observability federal log management and analytics logs public sector telemetry"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74993",
+      "title": "Transforming any log source into actionable insights with Dynatrace OpenPipeline",
+      "link": "https://www.dynatrace.com/news/blog/transforming-any-log-source-into-actionable-insights-with-dynatrace-openpipeline/",
+      "publishedAt": "2026-08-05T16:09:51.000Z",
+      "author": "Hisham Athas",
+      "summary": "When an incident hits, nobody wants to spend precious minutes scrolling through raw logs looking for clues. Yet that’s exactly where many SRE and IT Operations teams find themselves. Logs are everywhere—application logs, infrastructure logs, web server logs, cloud services logs…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/06/def7babf-fb9f-424b-a86a-3333aba11353-1-1-600x338.png",
+      "categories": [
+        "observability"
+      ],
+      "tags": [
+        "Observability",
+        "IT operations",
+        "log management",
+        "logs",
+        "OpenPipeline",
+        "SRE"
+      ],
+      "search": "transforming any log source into actionable insights with dynatrace openpipeline when an incident hits, nobody wants to spend precious minutes scrolling through raw logs looking for clues. yet that’s exactly where many sre and it operations teams find themselves. logs are everywhere—application logs, infrastructure logs, web server logs, cloud services logs… observability it operations log management logs openpipeline sre"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74979",
+      "title": "Coding agents are scaling fast. How do teams keep up?",
+      "link": "https://www.dynatrace.com/news/blog/coding-agents-are-scaling-fast-how-do-teams-keep-up/",
+      "publishedAt": "2026-08-04T21:37:59.000Z",
+      "author": "Joshua Hendrick",
+      "summary": "Scaled AI-assisted development creates a visibility gap Coding agents have moved from experiment to everyday engineering workflow faster than many organizations expected. Agent adoption has scaled faster than teams’ ability to understand how AI-assisted changes behave once they…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/02/Umbrella-600x338.png",
+      "categories": [
+        "ai",
+        "devops"
+      ],
+      "tags": [
+        "AI",
+        "DevOps",
+        "debugging",
+        "developer experience",
+        "developer observability"
+      ],
+      "search": "coding agents are scaling fast. how do teams keep up? scaled ai-assisted development creates a visibility gap coding agents have moved from experiment to everyday engineering workflow faster than many organizations expected. agent adoption has scaled faster than teams’ ability to understand how ai-assisted changes behave once they… ai devops debugging developer experience developer observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74981",
+      "title": "Query Dynatrace Managed data directly in Claude, AWS Kiro, GitHub Copilot, and other MCP-compatible clients",
+      "link": "https://www.dynatrace.com/news/blog/query-dynatrace-managed-data-directly-in-claude-aws-kiro-github-copilot-and-other-mcp-compatible-clients/",
+      "publishedAt": "2026-08-04T21:32:37.000Z",
+      "author": "Sangavi Venkadasamy",
+      "summary": "The Model Context Protocol (MCP) server for Dynatrace Managed exposes data to any authorized MCP-compatible client. Security and audit teams can now use the MCP server to access retained history in natural language. Users of Claude Desktop, GitHub Copilot, Kiro, and other AI…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/08/Blog_-Automation-2_-web-res-version-600x338.png",
+      "categories": [
+        "ai",
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Product news",
+        "agentic AI",
+        "agents",
+        "Dynatrace Intelligence",
+        "Dynatrace Intelligence AI",
+        "Managed",
+        "MCP"
+      ],
+      "search": "query dynatrace managed data directly in claude, aws kiro, github copilot, and other mcp-compatible clients the model context protocol (mcp) server for dynatrace managed exposes data to any authorized mcp-compatible client. security and audit teams can now use the mcp server to access retained history in natural language. users of claude desktop, github copilot, kiro, and other ai… ai observability product news agentic ai agents dynatrace intelligence dynatrace intelligence ai managed mcp"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74967",
+      "title": "Introducing intelligent database observability: from alerts to answers at scale",
+      "link": "https://www.dynatrace.com/news/blog/introducing-intelligent-database-observability-from-alerts-to-answers-at-scale/",
+      "publishedAt": "2026-08-04T20:34:17.000Z",
+      "author": "Roee Kriger",
+      "summary": "When alerts aren’t enough anymore A decade ago, every company with a production database had a DBA on staff. Today, that’s no longer true. The rise of managed database services — Amazon RDS, Azure Database for PostgreSQL, Google Cloud SQL — has removed the operational overhead…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/09/Blog_-FI-Req-HANS-LOGS-AWS-S3-logs-forwarder_-web-res-version-600x338.png",
+      "categories": [
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "Observability",
+        "Product news",
+        "AI Observability",
+        "cloud native",
+        "Database Analysis",
+        "Database Observability",
+        "Execution Plans",
+        "Health Score",
+        "Infrastructure Observability",
+        "MySQL",
+        "PostgreSQL",
+        "Query Performance"
+      ],
+      "search": "introducing intelligent database observability: from alerts to answers at scale when alerts aren’t enough anymore a decade ago, every company with a production database had a dba on staff. today, that’s no longer true. the rise of managed database services — amazon rds, azure database for postgresql, google cloud sql — has removed the operational overhead… observability product news ai observability cloud native database analysis database observability execution plans health score infrastructure observability mysql postgresql query performance"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75068",
+      "title": "Dynatrace Managed release notes version 1.344",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-managed-release-notes-version-1-344/",
+      "publishedAt": "2026-08-03T16:20:10.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace Managed version 1.344. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/Managed_Release_notes_3-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "Managed",
+        "What's new"
+      ],
+      "search": "dynatrace managed release notes version 1.344 we have released dynatrace managed version 1.344. to learn what’s new, have a look at the release notes. product news release notes managed what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74941",
+      "title": "Malicious package detection with Runtime Vulnerability Analytics: Identify threats at runtime",
+      "link": "https://www.dynatrace.com/news/blog/malicious-package-detection-with-runtime-vulnerability-analytics/",
+      "publishedAt": "2026-07-31T18:40:19.000Z",
+      "author": "Stefan Achleitner",
+      "summary": "Dynatrace malicious package detection identifies intentionally harmful software dependencies at runtime, supporting teams to detect and remove active attacks.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/07/BAE26213_Blog_NGINX_Vulnerbility_D1-600x337.png",
+      "categories": [
+        "vulnerability-insights"
+      ],
+      "tags": [
+        "Product news",
+        "Vulnerability Insights",
+        "detection",
+        "Dynatrace",
+        "malicious packages",
+        "osv.dev",
+        "runtime vulnerability analytics",
+        "RVA",
+        "Security",
+        "vulnerability feed"
+      ],
+      "search": "malicious package detection with runtime vulnerability analytics: identify threats at runtime dynatrace malicious package detection identifies intentionally harmful software dependencies at runtime, supporting teams to detect and remove active attacks. product news vulnerability insights detection dynatrace malicious packages osv.dev runtime vulnerability analytics rva security vulnerability feed"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75064",
+      "title": "What’s new in Dynatrace SaaS version 1.344",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-344/",
+      "publishedAt": "2026-07-29T16:05:42.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.344. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.344 we have released dynatrace version 1.344. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74899",
+      "title": "OpenTelemetry series: Understanding OTel traces and spans",
+      "link": "https://www.dynatrace.com/news/blog/opentelemetry-series-understanding-otel-traces-and-spans/",
+      "publishedAt": "2026-07-28T15:40:52.000Z",
+      "author": "Amrith Raj",
+      "summary": "A guide to distributed traces and spans",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/OpenTelemetry-Dynatrace_high_res_ver-600x338.png",
+      "categories": [
+        "devops",
+        "engineering"
+      ],
+      "tags": [
+        "DevOps",
+        "Engineering",
+        "Distributed Traces",
+        "opentelemetry",
+        "traces"
+      ],
+      "search": "opentelemetry series: understanding otel traces and spans a guide to distributed traces and spans devops engineering distributed traces opentelemetry traces"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74913",
+      "title": "OneAgent release notes version 1.343",
+      "link": "https://www.dynatrace.com/news/blog/oneagent-release-notes-version-1-343/",
+      "publishedAt": "2026-07-28T10:39:18.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace OneAgent and ActiveGate version 1.343. To learn what’s new, have a look at: OneAgent release notes ActiveGate release notes",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/05/OneAgent_ProductNotes_v2-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "OneAgent",
+        "What's new"
+      ],
+      "search": "oneagent release notes version 1.343 we have released dynatrace oneagent and activegate version 1.343. to learn what’s new, have a look at: oneagent release notes activegate release notes product news release notes oneagent what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74887",
+      "title": "How Observability transforms vibe coding into AI engineering",
+      "link": "https://www.dynatrace.com/news/blog/how-observability-transforms-vibe-coding-into-ai-engineering/",
+      "publishedAt": "2026-07-27T21:08:44.000Z",
+      "author": "Florian Mair",
+      "summary": "Discover how to transform AI-generated code and Coding Agents from unpredictable contributors into reliable engineering work by combining prompt engineering, structured planning, skills, and a runtime feedback loop powered by observability.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/Blog__FI_Req_PNB_observability_for_relational_databases_copy__web_res_verion-600x338.png",
+      "categories": [
+        "devops",
+        "engineering"
+      ],
+      "tags": [
+        "DevOps",
+        "Engineering",
+        "Observability",
+        "AI engineering",
+        "AI-assisted development",
+        "Claude Code",
+        "Coding Agents",
+        "MCP",
+        "observability",
+        "opentelemetry",
+        "skills"
+      ],
+      "search": "how observability transforms vibe coding into ai engineering discover how to transform ai-generated code and coding agents from unpredictable contributors into reliable engineering work by combining prompt engineering, structured planning, skills, and a runtime feedback loop powered by observability. devops engineering observability ai engineering ai-assisted development claude code coding agents mcp observability opentelemetry skills"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74879",
+      "title": "Cyber Deception with Koney and Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/cyber-deception-with-koney-and-dynatrace/",
+      "publishedAt": "2026-07-27T17:22:57.000Z",
+      "author": "Mario Kahlhofer",
+      "summary": "Deploy automated honeytokens in Kubernetes with Koney: set traps for attackers, detect file access with eBPF and Tetragon, and forward alerts to Dynatrace.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/05/BAE11403_RC_KubernetesWebinar_BlogImage_1600x900_FINAL-600x338.jpg",
+      "categories": [
+        "application-security",
+        "engineering",
+        "kubernetes"
+      ],
+      "tags": [
+        "Application security",
+        "Engineering",
+        "Kubernetes",
+        "cloud native",
+        "cyber deception",
+        "eBPF",
+        "honeytokens",
+        "kubernetes",
+        "open source",
+        "Security",
+        "Tetragon"
+      ],
+      "search": "cyber deception with koney and dynatrace deploy automated honeytokens in kubernetes with koney: set traps for attackers, detect file access with ebpf and tetragon, and forward alerts to dynatrace. application security engineering kubernetes cloud native cyber deception ebpf honeytokens kubernetes open source security tetragon"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74862",
+      "title": "How CISA BOD 26-04 is reshaping the vulnerability remediation approach",
+      "link": "https://www.dynatrace.com/news/blog/how-cisa-bod-26-04-is-reshaping-the-vulnerability-remediation-approach/",
+      "publishedAt": "2026-07-23T14:12:08.000Z",
+      "author": "Michiel de Lepper",
+      "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA)’s recently introduced Binding Operational Directive (BOD) 26-04 is fundamentally changing how organizations need to approach vulnerability remediation. A Binding Operational Directive (BOD) is a compulsory…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/07/BAE26574_Blog_CISA_Blog_D1-600x337.png",
+      "categories": [
+        "engineering",
+        "vulnerability-insights"
+      ],
+      "tags": [
+        "Engineering",
+        "Vulnerability Insights",
+        "Application Security",
+        "CISA",
+        "compliance"
+      ],
+      "search": "how cisa bod 26-04 is reshaping the vulnerability remediation approach the u.s. cybersecurity and infrastructure security agency (cisa)’s recently introduced binding operational directive (bod) 26-04 is fundamentally changing how organizations need to approach vulnerability remediation. a binding operational directive (bod) is a compulsory… engineering vulnerability insights application security cisa compliance"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74819",
+      "title": "Your Kubernetes cluster has a graph. Here’s how to interrogate it.",
+      "link": "https://www.dynatrace.com/news/blog/your-kubernetes-cluster-has-a-graph-heres-how-to-interrogate-it/",
+      "publishedAt": "2026-07-20T14:21:19.000Z",
+      "author": "Gergely Puskas",
+      "summary": "A hands-on guide to Dynatrace Smartscape on Grail for SREs — impact radius, ownership, and incident scope in three DQL queries.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/07/BAE26864_Blog_Image_K8s_Smartscape_D2-600x337.png",
+      "categories": [
+        "infrastructure"
+      ],
+      "tags": [
+        "Infrastructure",
+        "Grail",
+        "kubernetes",
+        "Smartscape",
+        "topology"
+      ],
+      "search": "your kubernetes cluster has a graph. here’s how to interrogate it. a hands-on guide to dynatrace smartscape on grail for sres — impact radius, ownership, and incident scope in three dql queries. infrastructure grail kubernetes smartscape topology"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74813",
+      "title": "Seeing the core clearly: Dynatrace mainframe monitoring meets IBM z17",
+      "link": "https://www.dynatrace.com/news/blog/seeing-the-core-clearly-dynatrace-mainframe-monitoring-meets-ibm-z17/",
+      "publishedAt": "2026-07-16T13:35:42.000Z",
+      "author": "Jessielaine Punongbayan",
+      "summary": "Enterprise computing just welcomed a new member to the family. With the launch of IBM z17™, organizations running mission-critical workloads now have access to a platform purpose-built for AI at scale, end-to-end automation, and advanced security capabilities. For the…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/Blog-OTP-0298_Improve-Mainframe-Availability-Connecting-Logs-Trace_1x-1-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Observability",
+        "Partners",
+        "IBM Mainframe",
+        "partners"
+      ],
+      "search": "seeing the core clearly: dynatrace mainframe monitoring meets ibm z17 enterprise computing just welcomed a new member to the family. with the launch of ibm z17™, organizations running mission-critical workloads now have access to a platform purpose-built for ai at scale, end-to-end automation, and advanced security capabilities. for the… observability partners ibm mainframe partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74792",
+      "title": "Dynatrace Security Enrichment: Every threat intelligence source in one unified experience",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-security-enrichment-every-threat-intelligence-source-in-one-unified-experience/",
+      "publishedAt": "2026-07-14T20:00:50.000Z",
+      "author": "Michael Bischof",
+      "summary": "Dynatrace Security Enrichment gives security teams one place to connect commercial, open source, and proprietary threat intelligence (TI) sources and use them to enrich IP addresses across Dynatrace Investigations, Threats & Exploits, and Workflows. Instead of building and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/07/Blog-OTP-0002_1x-1-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "Application Security",
+        "security enrichment"
+      ],
+      "search": "dynatrace security enrichment: every threat intelligence source in one unified experience dynatrace security enrichment gives security teams one place to connect commercial, open source, and proprietary threat intelligence (ti) sources and use them to enrich ip addresses across dynatrace investigations, threats & exploits, and workflows. instead of building and… application security product news application security security enrichment"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74926",
+      "title": "What’s new in Dynatrace SaaS version 1.343",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-343/",
+      "publishedAt": "2026-07-14T06:35:52.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.343. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.343 we have released dynatrace version 1.343. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74763",
+      "title": "Dynatrace plans FedRAMP Class D (High): Why it matters for agency strategic planning",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-plans-fedramp-class-d-high/",
+      "publishedAt": "2026-07-10T13:02:00.000Z",
+      "author": "Willie Hicks",
+      "summary": "Dynatrace intends to pursue FedRAMP Class D (High) certification, building on its existing FedRAMP Moderate certification established in 2020. For federal agencies managing sensitive, mission-critical workloads, this strategic direction signals a platform that can grow alongside…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/07/BAE27007_Feature_Image_Final-600x338.png",
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "Company and culture",
+        "Product news",
+        "FedRAMP",
+        "public sector"
+      ],
+      "search": "dynatrace plans fedramp class d (high): why it matters for agency strategic planning dynatrace intends to pursue fedramp class d (high) certification, building on its existing fedramp moderate certification established in 2020. for federal agencies managing sensitive, mission-critical workloads, this strategic direction signals a platform that can grow alongside… company and culture product news fedramp public sector"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74727",
+      "title": "Quit trying to keep up with every new AI tool and keep building",
+      "link": "https://www.dynatrace.com/news/blog/quit-trying-to-keep-up-with-every-new-ai-tool-and-keep-building/",
+      "publishedAt": "2026-07-06T20:25:58.000Z",
+      "author": "Jeff Blankenburg",
+      "summary": "I think a lot of developers are quietly afraid right now. Not because AI is going to replace them any time soon. Most experienced developers don’t actually believe that. The fear is more subtle than that. They’re afraid of getting left behind, learning the wrong tools or…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog-OTP_Intelligence_Core_Autonomous_Operations_800x450-600x338.png",
+      "categories": [
+        "ai",
+        "devops"
+      ],
+      "tags": [
+        "AI",
+        "DevOps",
+        "developer experience",
+        "developer observability"
+      ],
+      "search": "quit trying to keep up with every new ai tool and keep building i think a lot of developers are quietly afraid right now. not because ai is going to replace them any time soon. most experienced developers don’t actually believe that. the fear is more subtle than that. they’re afraid of getting left behind, learning the wrong tools or… ai devops developer experience developer observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74928",
+      "title": "Dynatrace Managed release notes version 1.342",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-managed-release-notes-version-1-342/",
+      "publishedAt": "2026-07-06T06:39:58.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace Managed version 1.342. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/Managed_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "Managed",
+        "What's new"
+      ],
+      "search": "dynatrace managed release notes version 1.342 we have released dynatrace managed version 1.342. to learn what’s new, have a look at the release notes. product news release notes managed what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74651",
+      "title": "Smarter, safer Agentic AI: Dynatrace observability meets NVIDIA AI-Q",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-observability-meets-nvidia-ai-q/",
+      "publishedAt": "2026-07-02T23:42:51.000Z",
+      "author": "Mrudula Bangera",
+      "summary": "Enterprise AI is rapidly evolving from standalone models to agentic AI systems, where multiple AI agents collaborate to gather information, reason across data sources, and generate complex outputs. These systems unlock powerful new capabilities, but they also introduce…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/BAE21166_RC_DT-NVIDIA_BlogImage_1600x900_FINAL-600x338.png",
+      "categories": [
+        "ai",
+        "partners"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Partners",
+        "agentic AI",
+        "NVIDIA",
+        "observability"
+      ],
+      "search": "smarter, safer agentic ai: dynatrace observability meets nvidia ai-q enterprise ai is rapidly evolving from standalone models to agentic ai systems, where multiple ai agents collaborate to gather information, reason across data sources, and generate complex outputs. these systems unlock powerful new capabilities, but they also introduce… ai observability partners agentic ai nvidia observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74930",
+      "title": "OneAgent release notes version 1.341",
+      "link": "https://www.dynatrace.com/news/blog/oneagent-release-notes-version-1-341/",
+      "publishedAt": "2026-06-30T06:44:04.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace OneAgent and ActiveGate version 1.341. To learn what’s new, have a look at: OneAgent release notes ActiveGate release notes",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/05/OneAgent_ProductNotes_v2-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "OneAgent",
+        "What's new"
+      ],
+      "search": "oneagent release notes version 1.341 we have released dynatrace oneagent and activegate version 1.341. to learn what’s new, have a look at: oneagent release notes activegate release notes product news release notes oneagent what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74924",
+      "title": "What’s new in Dynatrace SaaS version 1.342",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-342/",
+      "publishedAt": "2026-06-30T06:32:27.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.342. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.342 we have released dynatrace version 1.342. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74677",
+      "title": "Beyond LLM-as-a-judge: Establishing LLM evaluations as a foundation for trustworthy agentic AI systems",
+      "link": "https://www.dynatrace.com/news/blog/llm-evaluations-as-a-foundation-for-trustworthy-agentic-ai-systems/",
+      "publishedAt": "2026-06-26T15:54:20.000Z",
+      "author": "Kristof Muhi",
+      "summary": "Large language models and agents are rapidly transforming how organizations build software, automate workflows, and interact with data. From copilots to autonomous agents, AI-powered systems are increasingly responsible for answering questions, generating code, and supporting…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/BAE26093_Blog_Publishing_Pipeline_Prod_News_Practitioner_D4-600x337.webp",
+      "categories": [
+        "ai",
+        "engineering"
+      ],
+      "tags": [
+        "AI",
+        "Engineering",
+        "Observability",
+        "Product news",
+        "agents",
+        "AI Observability",
+        "Evaluations",
+        "LLM-as-judge"
+      ],
+      "search": "beyond llm-as-a-judge: establishing llm evaluations as a foundation for trustworthy agentic ai systems large language models and agents are rapidly transforming how organizations build software, automate workflows, and interact with data. from copilots to autonomous agents, ai-powered systems are increasingly responsible for answering questions, generating code, and supporting… ai engineering observability product news agents ai observability evaluations llm-as-judge"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74644",
+      "title": "Log management for AI workloads: How to bring your logs and telemetry plan into the AI-first century",
+      "link": "https://www.dynatrace.com/news/blog/2026-log-management-for-ai-workloads-action-plan/",
+      "publishedAt": "2026-06-24T12:19:44.000Z",
+      "author": "Mala Pillutla",
+      "summary": "AI is stretching the boundaries of traditional log management. More data without context slows insight, increases risk, and stalls AI progress. Teams need to rethink how they capture, process, and use telemetry from ingest to analysis. This action plan outlines how to unify…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/bae25014-RC-state-log-mgmt-2026-800x450-FINAL-600x338.png",
+      "categories": [
+        "ai",
+        "log-management-and-analytics"
+      ],
+      "tags": [
+        "AI",
+        "Log Management and Analytics",
+        "log management",
+        "log management and analytics"
+      ],
+      "search": "log management for ai workloads: how to bring your logs and telemetry plan into the ai-first century ai is stretching the boundaries of traditional log management. more data without context slows insight, increases risk, and stalls ai progress. teams need to rethink how they capture, process, and use telemetry from ingest to analysis. this action plan outlines how to unify… ai log management and analytics log management log management and analytics"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74633",
+      "title": "Building in the open: How Dynatrace invests in open source to move the industry forward",
+      "link": "https://www.dynatrace.com/news/blog/building-in-the-open-how-dynatrace-invests-in-open-source-to-move-the-industry-forward/",
+      "publishedAt": "2026-06-23T20:24:37.000Z",
+      "author": "David Hirsch",
+      "summary": "At Dynatrace, we believe the future of observability and cloud-native operations is open. Not “open” as a slide-deck buzzword, but open as in showing up every day to write code, review PRs, chair working groups, and build tools the community can use, extend, and make their own…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/OpenTelemetry-Dynatrace_high_res_ver-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "developer experience",
+        "open source",
+        "opentelemetry"
+      ],
+      "search": "building in the open: how dynatrace invests in open source to move the industry forward at dynatrace, we believe the future of observability and cloud-native operations is open. not “open” as a slide-deck buzzword, but open as in showing up every day to write code, review prs, chair working groups, and build tools the community can use, extend, and make their own… devops developer experience open source opentelemetry"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73774",
+      "title": "Getting started with cloud modernization",
+      "link": "https://www.dynatrace.com/news/blog/getting-started-with-cloud-modernization/",
+      "publishedAt": "2026-06-23T09:01:32.000Z",
+      "author": "Ashley Adams",
+      "summary": "Here’s the uncomfortable truth: organizations are spending billions on cloud migrations, yet many fail to deliver the promised ROI. Why? Because moving workloads to the cloud without addressing operational visibility, runaway costs, and fragmented tooling multiplies the problem…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/03/Blog__Cloud_automation__web_res_version-600x338.webp",
+      "categories": [
+        "cloud-native"
+      ],
+      "tags": [
+        "Cloud native",
+        "Cloud",
+        "cloud app modernization",
+        "cloud modernization"
+      ],
+      "search": "getting started with cloud modernization here’s the uncomfortable truth: organizations are spending billions on cloud migrations, yet many fail to deliver the promised roi. why? because moving workloads to the cloud without addressing operational visibility, runaway costs, and fragmented tooling multiplies the problem… cloud native cloud cloud app modernization cloud modernization"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73713",
+      "title": "How AI workloads are changing what logs must deliver, forcing a new strategy",
+      "link": "https://www.dynatrace.com/news/blog/log-management-research-key-findings/",
+      "publishedAt": "2026-06-17T12:34:03.000Z",
+      "author": "Mala Pillutla",
+      "summary": "AI workloads are redefining what logs must deliver—and exposing where traditional approaches fall short. New research reveals how rising scale, cost pressures, and missing context are reshaping log management. The path forward is clear: unify logs with traces and other telemetry…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/bae24994-RC-state-log-mgmt-2026-1600x900-FINAL-600x338.png",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "log management",
+        "log management and analytics"
+      ],
+      "search": "how ai workloads are changing what logs must deliver, forcing a new strategy ai workloads are redefining what logs must deliver—and exposing where traditional approaches fall short. new research reveals how rising scale, cost pressures, and missing context are reshaping log management. the path forward is clear: unify logs with traces and other telemetry… ai observability log management log management and analytics"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74567",
+      "title": "Moving from insight to action: How Dynatrace and AWS are reshaping cloud operations",
+      "link": "https://www.dynatrace.com/news/blog/how-dynatrace-and-aws-are-reshaping-cloud-operations/",
+      "publishedAt": "2026-06-16T17:30:03.000Z",
+      "author": "Erick Leon",
+      "summary": "If you’re running modern applications on AWS, you already have access to more data than ever: metrics, logs, traces, and events. The real advantage comes from turning that data into actionable insights that drive continuous improvement. Today’s challenge occurs when something…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/07/BAE3176_RC_SolutionPartners_Cobrand_DARK_AWS_800x450_FINAL_webready-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "AWS",
+        "Cloud",
+        "partners"
+      ],
+      "search": "moving from insight to action: how dynatrace and aws are reshaping cloud operations if you’re running modern applications on aws, you already have access to more data than ever: metrics, logs, traces, and events. the real advantage comes from turning that data into actionable insights that drive continuous improvement. today’s challenge occurs when something… partners aws cloud partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74593",
+      "title": "What’s new in Dynatrace SaaS version 1.341",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-341/",
+      "publishedAt": "2026-06-16T05:57:52.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.341. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.341 we have released dynatrace version 1.341. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74557",
+      "title": "Orchestrate multicloud AI agents for autonomous incident resolution",
+      "link": "https://www.dynatrace.com/news/blog/orchestrate-multicloud-ai-agents-for-autonomous-incident-resolution/",
+      "publishedAt": "2026-06-15T20:11:14.000Z",
+      "author": "Christian Kiesewetter",
+      "summary": "Cloud SRE Agents is a Dynatrace app that orchestrates AWS®, Azure®, and Google® AI agents for automated investigation and resolution assistance for incidents across multicloud environments. Cloud SRE Agents routes identified issues based on configurable rules, centralizes its…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/Blog_-OTP-0063_-Embrace-enterprise-wide-observability-and-security-with-Foundation-Discovery_-high-res-version-1-1-600x338.png",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Product news",
+        "agentic AI",
+        "Agentic ecosystem",
+        "agents",
+        "AWS",
+        "Dynatrace Intelligence",
+        "google",
+        "MCP",
+        "Microsoft",
+        "SRE",
+        "troubleshooting"
+      ],
+      "search": "orchestrate multicloud ai agents for autonomous incident resolution cloud sre agents is a dynatrace app that orchestrates aws®, azure®, and google® ai agents for automated investigation and resolution assistance for incidents across multicloud environments. cloud sre agents routes identified issues based on configurable rules, centralizes its… ai observability product news agentic ai agentic ecosystem agents aws dynatrace intelligence google mcp microsoft sre troubleshooting"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74536",
+      "title": "Dynatrace observability is now a Kiro power",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-observability-is-now-a-kiro-power/",
+      "publishedAt": "2026-06-12T21:12:32.000Z",
+      "author": "Christian Kiesewetter",
+      "summary": "In this blog, we'll introduce the Kiro power for Dynatrace, show what it unlocks for developers, and walk you through how to get it up and running.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/thumbail-600x400.png",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Product news",
+        "Agentic ecosystem",
+        "agents",
+        "AWS",
+        "Davis AI",
+        "developers",
+        "Kiro powered by AWS",
+        "MCP",
+        "observability for developers",
+        "troubleshooting"
+      ],
+      "search": "dynatrace observability is now a kiro power in this blog, we'll introduce the kiro power for dynatrace, show what it unlocks for developers, and walk you through how to get it up and running. ai observability product news agentic ecosystem agents aws davis ai developers kiro powered by aws mcp observability for developers troubleshooting"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74532",
+      "title": "From reactive to proactive: How NAIC embedded AI‑powered observability directly into the IDE",
+      "link": "https://www.dynatrace.com/news/blog/how-naic-embedded-ai-powered-observability-directly-into-the-ide/",
+      "publishedAt": "2026-06-12T17:54:29.000Z",
+      "author": "Erick Leon",
+      "summary": "Every developer knows the feeling: You’re in your IDE when something breaks. Error rates spike, alerts fire, and suddenly you’re out of the flow. Michael Kobush, Performance Engineer III at the National Association of Insurance Commissioners (NAIC®), wanted to eliminate the gap…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/Blog-OTP-23994_DT-extension-AI-observability_2x-600x338.png",
+      "categories": [
+        "ai",
+        "partners"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Partners",
+        "AI-powered observability",
+        "AWS",
+        "IDE",
+        "Kiro"
+      ],
+      "search": "from reactive to proactive: how naic embedded ai‑powered observability directly into the ide every developer knows the feeling: you’re in your ide when something breaks. error rates spike, alerts fire, and suddenly you’re out of the flow. michael kobush, performance engineer iii at the national association of insurance commissioners (naic®), wanted to eliminate the gap… ai observability partners ai-powered observability aws ide kiro"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74476",
+      "title": "Evaluate LLM and agent quality in Dynatrace AI Observability with dt-evals",
+      "link": "https://www.dynatrace.com/news/blog/evaluate-llm-and-agent-quality-in-dynatrace-ai-observability/",
+      "publishedAt": "2026-06-11T19:44:47.000Z",
+      "author": "Kristof Muhi",
+      "summary": "AI applications fail in ways that differ from traditional software. They can return responses quickly, with no errors, and still deliver answers that are inaccurate, ungrounded, unsafe, or unusable. That's why AI quality can't be treated as a side project.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/BAE26093_Blog_Publishing_Pipeline_Prod_News_Practitioner_D4-600x337.png",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Product news",
+        "AI agents",
+        "AI Observability",
+        "Evaluations",
+        "LLM-as-judge",
+        "Smartscape"
+      ],
+      "search": "evaluate llm and agent quality in dynatrace ai observability with dt-evals ai applications fail in ways that differ from traditional software. they can return responses quickly, with no errors, and still deliver answers that are inaccurate, ungrounded, unsafe, or unusable. that's why ai quality can't be treated as a side project. ai observability product news ai agents ai observability evaluations llm-as-judge smartscape"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74422",
+      "title": "Beyond correlation to autonomous action: Why “good enough” observability fails in the age of agentic AI",
+      "link": "https://www.dynatrace.com/news/blog/beyond-correlation-to-autonomous-action/",
+      "publishedAt": "2026-06-08T15:03:09.000Z",
+      "author": "Bob Wambach",
+      "summary": "Agentic AI is breaking the mold of what organizations need from observability. Fragmented, correlation-dependent observability platforms are no longer “good enough.” Enterprises with dynamic, hybrid environments require observability that provides real-time, precise answers, so…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/Blog-OTP-Observability-for-Agentic-AI-600x338.png",
+      "categories": [
+        "ai",
+        "aiops"
+      ],
+      "tags": [
+        "AI",
+        "AIOps",
+        "Observability",
+        "agentic AI",
+        "AI agents",
+        "AI Observability",
+        "observability"
+      ],
+      "search": "beyond correlation to autonomous action: why “good enough” observability fails in the age of agentic ai agentic ai is breaking the mold of what organizations need from observability. fragmented, correlation-dependent observability platforms are no longer “good enough.” enterprises with dynamic, hybrid environments require observability that provides real-time, precise answers, so… ai aiops observability agentic ai ai agents ai observability observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74458",
+      "title": "Dynatrace Managed release notes version 1.340",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-managed-release-notes-version-1-340/",
+      "publishedAt": "2026-06-08T06:27:06.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace Managed version 1.340. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/Managed_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "Managed",
+        "What's new"
+      ],
+      "search": "dynatrace managed release notes version 1.340 we have released dynatrace managed version 1.340. to learn what’s new, have a look at the release notes. product news release notes managed what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74412",
+      "title": "Port and Dynatrace: One-prompt incident triage with the Dynatrace MCP Server",
+      "link": "https://www.dynatrace.com/news/blog/port-and-dynatrace-one-prompt-incident-triage/",
+      "publishedAt": "2026-06-05T12:28:09.000Z",
+      "author": "Rob Jahn",
+      "summary": "The Dynatrace MCP Server is now available in Port via Port MCP Connectors. A single OAuth flow connects it in minutes. Set up Port AI to communicate with Dynatrace, GitHub, Slack, and your service catalog in a single conversation, correlating production signals, code, and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/Ready-made-agent-Blog-FINAL-2048x1152-1-600x338.png",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Product news",
+        "agentic AI",
+        "Dynatrace Intelligence"
+      ],
+      "search": "port and dynatrace: one-prompt incident triage with the dynatrace mcp server the dynatrace mcp server is now available in port via port mcp connectors. a single oauth flow connects it in minutes. set up port ai to communicate with dynatrace, github, slack, and your service catalog in a single conversation, correlating production signals, code, and… ai observability product news agentic ai dynatrace intelligence"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74456",
+      "title": "What’s new in Dynatrace SaaS version 1.340",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-340/",
+      "publishedAt": "2026-06-02T06:23:07.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.340. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.340 we have released dynatrace version 1.340. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74452",
+      "title": "OneAgent release notes version 1.339",
+      "link": "https://www.dynatrace.com/news/blog/oneagent-release-notes-version-1-339/",
+      "publishedAt": "2026-06-02T06:09:08.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace OneAgent and ActiveGate version 1.339. To learn what’s new, have a look at: OneAgent release notes ActiveGate release notes",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/05/OneAgent_ProductNotes_v2-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "OneAgent",
+        "What's new"
+      ],
+      "search": "oneagent release notes version 1.339 we have released dynatrace oneagent and activegate version 1.339. to learn what’s new, have a look at: oneagent release notes activegate release notes product news release notes oneagent what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73970",
+      "title": "The silent network killer: Preventing Azure SNAT exhaustion with Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/catching-azure-snat-exhaustion-across-every-subscription-with-dynatrace/",
+      "publishedAt": "2026-06-01T19:09:27.000Z",
+      "author": "Gareth Emslie",
+      "summary": "Your on-call engineer is looking at intermittent HTTP 500s from a service running on a virtual machine that was perfectly healthy twelve hours ago. Nothing changed in the application. No recent deployments. Logs show connection timeouts — but only under load, and only to…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/Blog-OTP-0308_Azure-SRE-Age_2x-600x338.png",
+      "categories": [
+        "engineering",
+        "partners"
+      ],
+      "tags": [
+        "Engineering",
+        "Partners",
+        "Azure",
+        "partners"
+      ],
+      "search": "the silent network killer: preventing azure snat exhaustion with dynatrace your on-call engineer is looking at intermittent http 500s from a service running on a virtual machine that was perfectly healthy twelve hours ago. nothing changed in the application. no recent deployments. logs show connection timeouts — but only under load, and only to… engineering partners azure partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74210",
+      "title": "AI agents are redefining software development—but they’re flying blind without observability",
+      "link": "https://www.dynatrace.com/news/blog/ai-agents-are-redefining-software-development-but-theyre-flying-blind-without-observability/",
+      "publishedAt": "2026-05-28T17:09:42.000Z",
+      "author": "Bernd Greifeneder",
+      "summary": "Imagine a team of AI agents building, deploying, and running software at machine speed—yet unable to see what’s happening in production. This is the new reality for enterprise technology leaders. As one Fortune 500 CTO told us, “Speed is now the primary driver of innovation…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/05/BAE26053_Blog_Bernd_Thought_Leadership-600x338.png",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "AI agents",
+        "AI Observability",
+        "software development"
+      ],
+      "search": "ai agents are redefining software development—but they’re flying blind without observability imagine a team of ai agents building, deploying, and running software at machine speed—yet unable to see what’s happening in production. this is the new reality for enterprise technology leaders. as one fortune 500 cto told us, “speed is now the primary driver of innovation… ai observability ai agents ai observability software development"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74203",
+      "title": "Dynatrace MCP Server for Atlassian Rovo: Investigate production problems without leaving Jira or JSM",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-mcp-server-for-atlassian-rovo-investigate-production-problems-without-leaving-jira-or-jsm/",
+      "publishedAt": "2026-05-27T19:37:02.000Z",
+      "author": "Christoph Enzinger",
+      "summary": "A developer triaging a bug in Jira, or an on-call engineer responding to an alert in Jira Service Management (JSM), can ask their Rovo agent to investigate production issues in Dynatrace using plain language, without leaving Jira or JSM. The Rovo agent answers any relevant…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/05/2026-05-27_12-26-16-600x338.png",
+      "categories": [
+        "ai"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Product news",
+        "agentic AI",
+        "Dynatrace Intelligence"
+      ],
+      "search": "dynatrace mcp server for atlassian rovo: investigate production problems without leaving jira or jsm a developer triaging a bug in jira, or an on-call engineer responding to an alert in jira service management (jsm), can ask their rovo agent to investigate production issues in dynatrace using plain language, without leaving jira or jsm. the rovo agent answers any relevant… ai observability product news agentic ai dynatrace intelligence"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74027",
+      "title": "Scaling the partner ecosystem for AI: What’s new from Dynatrace Amplify 2026",
+      "link": "https://www.dynatrace.com/news/blog/scaling-the-partner-ecosystem-for-ai-whats-new-from-dynatrace-amplify-2026/",
+      "publishedAt": "2026-05-21T17:24:52.000Z",
+      "author": "Anna Lawler",
+      "summary": "AI is changing how enterprises build, operate, and scale. It is also accelerating how quickly partners need to engage, differentiate, and deliver value. In this environment, speed and alignment matter. Partners and Dynatrace must operate as one team: sharing information…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/BAE4005_RC_SLED-Webinar_StateOfMI-MN_800x450_FINAL-1-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "amplify",
+        "Dynatrace Amplify",
+        "partner awards",
+        "partners"
+      ],
+      "search": "scaling the partner ecosystem for ai: what’s new from dynatrace amplify 2026 ai is changing how enterprises build, operate, and scale. it is also accelerating how quickly partners need to engage, differentiate, and deliver value. in this environment, speed and alignment matter. partners and dynatrace must operate as one team: sharing information… partners amplify dynatrace amplify partner awards partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74013",
+      "title": "Scaling enterprise AI with confidence: Dynatrace joins the Dell Technologies AI Ecosystem Program",
+      "link": "https://www.dynatrace.com/news/blog/scaling-enterprise-ai-with-confidence-dynatrace-joins-the-dell-technologies-ai-ecosystem-program/",
+      "publishedAt": "2026-05-19T19:02:13.000Z",
+      "author": "Greg Findlen",
+      "summary": "Most enterprises have moved past the deployment problem. The harder question is what those workloads are doing in production: where GPU spend is going, how agent chains are behaving, and whether compliance teams can answer when regulators ask. When the answers aren’t clear, the…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/05/BAE26010_BLOG_Dell_Annoucement_FINAL-600x337.png",
+      "categories": [
+        "ai",
+        "partners"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Partners",
+        "AI Observability",
+        "Dell Technologies"
+      ],
+      "search": "scaling enterprise ai with confidence: dynatrace joins the dell technologies ai ecosystem program most enterprises have moved past the deployment problem. the harder question is what those workloads are doing in production: where gpu spend is going, how agent chains are behaving, and whether compliance teams can answer when regulators ask. when the answers aren’t clear, the… ai observability partners ai observability dell technologies"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74022",
+      "title": "What’s new in Dynatrace SaaS version 1.339",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-339/",
+      "publishedAt": "2026-05-19T05:38:05.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.339. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.339 we have released dynatrace version 1.339. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73956",
+      "title": "Dynatrace Managed release notes version 1.338",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-managed-release-notes-version-1-338/",
+      "publishedAt": "2026-05-11T14:59:47.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace Managed version 1.338. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/Managed_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "Managed",
+        "What's new"
+      ],
+      "search": "dynatrace managed release notes version 1.338 we have released dynatrace managed version 1.338. to learn what’s new, have a look at the release notes. product news release notes managed what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73862",
+      "title": "How to build trust in Digital Experience Monitoring",
+      "link": "https://www.dynatrace.com/news/blog/how-to-build-trust-in-digital-experience-monitoring/",
+      "publishedAt": "2026-05-08T12:51:07.000Z",
+      "author": "Miriam Derenbach",
+      "summary": "Digital Experience Monitoring (DEM) is essential for understanding how users interact with your applications—from failed payments and slow user journeys to crashes and stability regressions. At the same time, DEM often intersects with personal or other sensitive data, a risk…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/Blog__OTP_0192__high_res_version-600x338.webp",
+      "categories": [
+        "digital-experience"
+      ],
+      "tags": [
+        "Digital experience",
+        "Product news",
+        "compliance",
+        "Digital Experience Monitoring",
+        "Privacy",
+        "trust center"
+      ],
+      "search": "how to build trust in digital experience monitoring digital experience monitoring (dem) is essential for understanding how users interact with your applications—from failed payments and slow user journeys to crashes and stability regressions. at the same time, dem often intersects with personal or other sensitive data, a risk… digital experience product news compliance digital experience monitoring privacy trust center"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73940",
+      "title": "Red Hat Summit 2026: Powering intelligent, automated operations across hybrid cloud and AI workloads",
+      "link": "https://www.dynatrace.com/news/blog/red-hat-summit-2026-powering-intelligent-automated-operations-across-hybrid-cloud-and-ai-workloads/",
+      "publishedAt": "2026-05-07T19:41:35.000Z",
+      "author": "Simon Brown",
+      "summary": "Red Hat Summit is Red Hat’s flagship event for IT leaders, platform engineers, developers, and operations teams building and scaling modern hybrid-cloud environments. This year’s Summit puts a focus firmly on helping enterprises operationalize AI at scale—powered by open…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/11/Blog_-FI-Req-PNB-RedHat-expand_-high-res-version-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "partners",
+        "red hat"
+      ],
+      "search": "red hat summit 2026: powering intelligent, automated operations across hybrid cloud and ai workloads red hat summit is red hat’s flagship event for it leaders, platform engineers, developers, and operations teams building and scaling modern hybrid-cloud environments. this year’s summit puts a focus firmly on helping enterprises operationalize ai at scale—powered by open… partners partners red hat"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?post_type=analyst-reports&p=66593",
+      "title": "2026 GigaOm Radar Report for Kubernetes Observability",
+      "link": "https://www.dynatrace.com/gigaom-radar-for-kubernetes-observability/",
+      "publishedAt": "2026-05-07T12:00:25.000Z",
+      "author": "Vincent Murphy",
+      "summary": "",
+      "image": null,
+      "categories": [
+        "application-security",
+        "kubernetes"
+      ],
+      "tags": [
+        "Application security",
+        "Kubernetes",
+        "Observability"
+      ],
+      "search": "2026 gigaom radar report for kubernetes observability application security kubernetes observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73923",
+      "title": "How Anthropic Claude Mythos is reshaping the vulnerability landscape",
+      "link": "https://www.dynatrace.com/news/blog/how-anthropic-claude-mythos-is-reshaping-the-vulnerability-landscape/",
+      "publishedAt": "2026-05-06T17:39:46.000Z",
+      "author": "Bojan Magusic",
+      "summary": "In April 2026, Anthropic unveiled Claude Mythos Preview, marking a major inflection point in how software vulnerabilities are discovered and exploited. The announcement signals a shift in the speed, scale, and sophistication of vulnerability discovery that security teams can no…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/05/BAE25613_Blog_Antropic_Claude_Mythos_FINALS-600x338.png",
+      "categories": [
+        "application-security",
+        "vulnerability-insights"
+      ],
+      "tags": [
+        "Application security",
+        "Vulnerability Insights",
+        "Application Security"
+      ],
+      "search": "how anthropic claude mythos is reshaping the vulnerability landscape in april 2026, anthropic unveiled claude mythos preview, marking a major inflection point in how software vulnerabilities are discovered and exploited. the announcement signals a shift in the speed, scale, and sophistication of vulnerability discovery that security teams can no… application security vulnerability insights application security"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73919",
+      "title": "What’s new in Dynatrace SaaS version 1.338",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-338/",
+      "publishedAt": "2026-05-05T14:26:28.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.338. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.338 we have released dynatrace version 1.338. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74450",
+      "title": "OneAgent release notes version 1.337",
+      "link": "https://www.dynatrace.com/news/blog/oneagent-release-notes-version-1-337/",
+      "publishedAt": "2026-05-05T06:05:07.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace OneAgent and ActiveGate version 1.337. To learn what’s new, have a look at: OneAgent release notes ActiveGate release notes",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/05/OneAgent_ProductNotes_v2-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "OneAgent",
+        "What's new"
+      ],
+      "search": "oneagent release notes version 1.337 we have released dynatrace oneagent and activegate version 1.337. to learn what’s new, have a look at: oneagent release notes activegate release notes product news release notes oneagent what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73904",
+      "title": "ServiceNow Knowledge 2026: Accelerating intelligent automation at scale",
+      "link": "https://www.dynatrace.com/news/blog/servicenow-knowledge-2026-accelerating-intelligent-automation-at-scale/",
+      "publishedAt": "2026-05-01T18:18:52.000Z",
+      "author": "Sally Dent",
+      "summary": "Dynatrace is excited to be a Gold sponsor at ServiceNow Knowledge 2026—ServiceNow’s premier annual conference—where IT leaders, practitioners, and partners converge to discuss the future of enterprise operations. Being here matters because this event is at the forefront of how…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/servicenow-lead-image-600x337.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "partners",
+        "ServiceNow"
+      ],
+      "search": "servicenow knowledge 2026: accelerating intelligent automation at scale dynatrace is excited to be a gold sponsor at servicenow knowledge 2026—servicenow’s premier annual conference—where it leaders, practitioners, and partners converge to discuss the future of enterprise operations. being here matters because this event is at the forefront of how… partners partners servicenow"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73871",
+      "title": "Dynatrace expands AI Coding Agent monitoring for Claude Code, Google Gemini CLI, Codex CLI, OpenCode, and GitHub Copilot SDK",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-expands-ai-coding-agent-monitoring/",
+      "publishedAt": "2026-04-30T14:39:57.000Z",
+      "author": "Kristof Muhi",
+      "summary": "AI coding agents are a core part of how modern engineering teams build, review, deploy, and troubleshoot software. But as usage grows, so do the operational questions: Which agents are being adopted? What are the associated costs? How reliable are coding agents within real…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/BAE24421__Blog_PNB_Coding_Monitoring_FINAL-600x337.png",
+      "categories": [
+        "ai",
+        "engineering"
+      ],
+      "tags": [
+        "AI",
+        "Engineering",
+        "Observability",
+        "Product news",
+        "Agent SDK",
+        "AI Observability",
+        "Coding Agents",
+        "engineering"
+      ],
+      "search": "dynatrace expands ai coding agent monitoring for claude code, google gemini cli, codex cli, opencode, and github copilot sdk ai coding agents are a core part of how modern engineering teams build, review, deploy, and troubleshoot software. but as usage grows, so do the operational questions: which agents are being adopted? what are the associated costs? how reliable are coding agents within real… ai engineering observability product news agent sdk ai observability coding agents engineering"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73858",
+      "title": "Observability is a team sport",
+      "link": "https://www.dynatrace.com/news/blog/observability-is-a-team-sport/",
+      "publishedAt": "2026-04-29T16:23:20.000Z",
+      "author": "Adriana Villela",
+      "summary": "“How do I structure my observability team?” is one of the most common questions folks leading software teams ask me. My advice: Don’t create a centralized “observability team” that’s responsible for all the observability within an organization. Observability shouldn’t exist as a…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/OpenTelemetry-Dynatrace_high_res_ver-600x338.png",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "Engineering",
+        "Observability",
+        "developer observability",
+        "observability",
+        "opentelemetry",
+        "SRE"
+      ],
+      "search": "observability is a team sport “how do i structure my observability team?” is one of the most common questions folks leading software teams ask me. my advice: don’t create a centralized “observability team” that’s responsible for all the observability within an organization. observability shouldn’t exist as a… engineering observability developer observability observability opentelemetry sre"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73802",
+      "title": "index4j: Open-source FM-Index for fast queries on compressed logs",
+      "link": "https://www.dynatrace.com/news/blog/index4j-open-source-fm-index-for-fast-queries-on-compressed-logs/",
+      "publishedAt": "2026-04-24T19:24:37.000Z",
+      "author": "Esteban Wohlfeil",
+      "summary": "If you’ve ever tried to track down a weird bug or security issue in a mountain of log files, you know how important it is to be able to search for any string no matter how random or unexpected. Log search engines need to be flexible, letting you look for anything from error…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/index4j-blog-feature-image-600x337.png",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "Engineering",
+        "Dynatrace research",
+        "FM-Index",
+        "index4j",
+        "open source",
+        "Research"
+      ],
+      "search": "index4j: open-source fm-index for fast queries on compressed logs if you’ve ever tried to track down a weird bug or security issue in a mountain of log files, you know how important it is to be able to search for any string no matter how random or unexpected. log search engines need to be flexible, letting you look for anything from error… engineering dynatrace research fm-index index4j open source research"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73769",
+      "title": "Best practices for hashing variable-length data structures",
+      "link": "https://www.dynatrace.com/news/blog/best-practices-for-hashing-variable-length-data-structures/",
+      "publishedAt": "2026-04-24T13:37:31.000Z",
+      "author": "Otmar Ertl",
+      "summary": "Hashing shows up everywhere in computer science, from quick lookups in hash tables to verifying data with checksums and fingerprints. A hash table works by turning each key into an integer so it can be retrieved fast—ideally with each distinct key producing its own unique value…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/Blog-OTP_Mastering-Hashing_1x-600x338.png",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "Engineering",
+        "open source",
+        "real-time analytics",
+        "Research"
+      ],
+      "search": "best practices for hashing variable-length data structures hashing shows up everywhere in computer science, from quick lookups in hash tables to verifying data with checksums and fingerprints. a hash table works by turning each key into an integer so it can be retrieved fast—ideally with each distinct key producing its own unique value… engineering open source real-time analytics research"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73821",
+      "title": "Unlocking a new era of digital innovation with Dynatrace and AWS",
+      "link": "https://www.dynatrace.com/news/blog/unlocking-a-new-era-of-digital-innovation-with-dynatrace-and-aws/",
+      "publishedAt": "2026-04-23T19:25:59.000Z",
+      "author": "Erick Leon",
+      "summary": "Experience agentic cloud and generative capabilities at the AWS Summits.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/07/BAE3176_RC_SolutionPartners_Cobrand_DARK_AWS_800x450_FINAL_webready-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "AWS",
+        "AWS Summit",
+        "partners"
+      ],
+      "search": "unlocking a new era of digital innovation with dynatrace and aws experience agentic cloud and generative capabilities at the aws summits. partners aws aws summit partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73813",
+      "title": "Dynatrace for AI: Teach your AI coding agent how to use Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-for-ai-teach-your-ai-coding-agent-how-to-use-dynatrace/",
+      "publishedAt": "2026-04-23T16:58:48.000Z",
+      "author": "Christian Kiesewetter",
+      "summary": "Introducing Dynatrace for AI, an open-source collection of agent skills and prompts that give any skills-compatible AI coding assistant the domain expertise it needs to work productively and accurately with Dynatrace.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog-OTP_Observability-for-Agentic-AI_800x450-600x338.png",
+      "categories": [
+        "ai",
+        "engineering"
+      ],
+      "tags": [
+        "AI",
+        "Engineering",
+        "Observability",
+        "Product news",
+        "agentic AI",
+        "Agentic ecosystem",
+        "agents",
+        "CLI",
+        "dashboards",
+        "dtctl",
+        "Dynatrace Intelligence",
+        "MCP",
+        "skills",
+        "Workflows"
+      ],
+      "search": "dynatrace for ai: teach your ai coding agent how to use dynatrace introducing dynatrace for ai, an open-source collection of agent skills and prompts that give any skills-compatible ai coding assistant the domain expertise it needs to work productively and accurately with dynatrace. ai engineering observability product news agentic ai agentic ecosystem agents cli dashboards dtctl dynatrace intelligence mcp skills workflows"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73778",
+      "title": "Google Cloud Next 2026: A look into the autonomous future of cloud operations",
+      "link": "https://www.dynatrace.com/news/blog/google-cloud-next-2026-a-look-into-the-autonomous-future-of-cloud-operations/",
+      "publishedAt": "2026-04-22T16:18:48.000Z",
+      "author": "Jay Snyder",
+      "summary": "Editor’s note At Google Cloud Next 2026, the future of digital operations and artificial intelligence is on full display. The mandate for enterprises is clear: Successfully scaling AI requires a foundation of intelligent observability. The momentum behind the Dynatrace…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/02/google-cloud-light-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "AI",
+        "Cloud",
+        "Google Cloud",
+        "partners"
+      ],
+      "search": "google cloud next 2026: a look into the autonomous future of cloud operations editor’s note at google cloud next 2026, the future of digital operations and artificial intelligence is on full display. the mandate for enterprises is clear: successfully scaling ai requires a foundation of intelligent observability. the momentum behind the dynatrace… partners ai cloud google cloud partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73767",
+      "title": "What’s new in Dynatrace SaaS version 1.337",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-337/",
+      "publishedAt": "2026-04-21T17:24:19.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.337. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.337 we have released dynatrace version 1.337. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73763",
+      "title": "The rise of the AI workforce: Enterprises need a new operating model",
+      "link": "https://www.dynatrace.com/news/blog/the-rise-of-the-ai-workforce-enterprises-need-a-new-operating-model/",
+      "publishedAt": "2026-04-21T15:49:54.000Z",
+      "author": "Michael Villiger",
+      "summary": "A profound shift is underway in enterprise software delivery. Developers can now generate, modify, and deploy systems faster than ever using AI. But understanding what those systems are doing in production is getting harder, not easier. What began as simple prompt and response…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/Google-Cloud-dark-600x338.jpg",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Partners",
+        "Google Cloud",
+        "partners"
+      ],
+      "search": "the rise of the ai workforce: enterprises need a new operating model a profound shift is underway in enterprise software delivery. developers can now generate, modify, and deploy systems faster than ever using ai. but understanding what those systems are doing in production is getting harder, not easier. what began as simple prompt and response… ai observability partners google cloud partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73718",
+      "title": "Achieving enhanced observability for Alibaba Cloud in multi-cloud environments with Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/achieving-enhanced-observability-for-alibaba-cloud-in-multi-cloud-environments-with-dynatrace/",
+      "publishedAt": "2026-04-14T14:32:15.000Z",
+      "author": "Jonas Tremsal",
+      "summary": "Multi-cloud architecture is now the norm. Each cloud brings unique strengths, and Alibaba Cloud often plays a key role for organizations with customers or operations in China and the broader Asia‑Pacific region. To make the most of the flexibility of multi-cloud environments…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/Blog-OTP-23994_DT-extension-AI-observability_2x-600x338.png",
+      "categories": [
+        "engineering",
+        "partners"
+      ],
+      "tags": [
+        "Engineering",
+        "Observability",
+        "Partners",
+        "Alibaba Cloud",
+        "Multi-Cloud"
+      ],
+      "search": "achieving enhanced observability for alibaba cloud in multi-cloud environments with dynatrace multi-cloud architecture is now the norm. each cloud brings unique strengths, and alibaba cloud often plays a key role for organizations with customers or operations in china and the broader asia‑pacific region. to make the most of the flexibility of multi-cloud environments… engineering observability partners alibaba cloud multi-cloud"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73716",
+      "title": "Dynatrace Managed release notes version 1.336",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-managed-release-notes-version-1-336/",
+      "publishedAt": "2026-04-13T07:32:02.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace Managed version 1.336. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/Managed_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "Managed",
+        "What's new"
+      ],
+      "search": "dynatrace managed release notes version 1.336 we have released dynatrace managed version 1.336. to learn what’s new, have a look at the release notes. product news release notes managed what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73648",
+      "title": "Dynatrace to acquire Bindplane to bring control to the telemetry lifecycle",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-to-acquire-bindplane-telemetry-pipeline/",
+      "publishedAt": "2026-04-08T20:05:25.000Z",
+      "author": "Steve Tack",
+      "summary": "Editor’s update (April 15, 2026): The Dynatrace acquisition of Bindplane has officially closed, marking the next step in our vision to bring greater control to the telemetry lifecycle. With the transaction now complete, Dynatrace is moving forward with plans to accelerate…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/BAE16800_RC_Metis-acquisition_800x450_FINAL-600x338.png",
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "Company and culture",
+        "Product news",
+        "Bindplane",
+        "opentelemetry",
+        "telemetry"
+      ],
+      "search": "dynatrace to acquire bindplane to bring control to the telemetry lifecycle editor’s update (april 15, 2026): the dynatrace acquisition of bindplane has officially closed, marking the next step in our vision to bring greater control to the telemetry lifecycle. with the transaction now complete, dynatrace is moving forward with plans to accelerate… company and culture product news bindplane opentelemetry telemetry"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73662",
+      "title": "Prioritize GitHub Advanced Security alerts with runtime context from Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/prioritize-github-advanced-security-alerts-with-runtime-context-from-dynatrace/",
+      "publishedAt": "2026-04-08T15:42:27.000Z",
+      "author": "James Kitson",
+      "summary": "Dynatrace extends its integration with GitHub Advanced Security to share the runtime context of your monitored Kubernetes environment with developers and security teams, enabling improved prioritization, automation, and remediation of security alerts across your code and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/Blog-OTP-0271_GitHub-Advanced-Security_1x-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "Application Security",
+        "integrations"
+      ],
+      "search": "prioritize github advanced security alerts with runtime context from dynatrace dynatrace extends its integration with github advanced security to share the runtime context of your monitored kubernetes environment with developers and security teams, enabling improved prioritization, automation, and remediation of security alerts across your code and… application security product news application security integrations"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73659",
+      "title": "OneAgent release notes version 1.335",
+      "link": "https://www.dynatrace.com/news/blog/oneagent-release-notes-version-1-335/",
+      "publishedAt": "2026-04-07T07:57:58.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace OneAgent and ActiveGate version 1.335. To learn what’s new, have a look at: OneAgent release notes ActiveGate release notes",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/05/OneAgent_ProductNotes_v2-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "OneAgent",
+        "What's new"
+      ],
+      "search": "oneagent release notes version 1.335 we have released dynatrace oneagent and activegate version 1.335. to learn what’s new, have a look at: oneagent release notes activegate release notes product news release notes oneagent what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=74454",
+      "title": "What’s new in Dynatrace SaaS version 1.336",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-336/",
+      "publishedAt": "2026-04-07T06:16:40.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.336. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.336 we have released dynatrace version 1.336. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73504",
+      "title": "Use code-level analysis to cut MTTR before you push to production",
+      "link": "https://www.dynatrace.com/news/blog/use-code-level-analysis-to-cut-mttr-before-you-push-to-production/",
+      "publishedAt": "2026-04-03T18:55:09.000Z",
+      "author": "Sean O’Dell",
+      "summary": "You deploy a small change to a Node.js service. All tests pass. You top off your coffee. Fifteen minutes later, alerts start firing. Your once-snappy API endpoint is crawling. Dashboards light up. Slack fills with “Anyone seeing latency?” messages. You open the logs and start…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/02/Umbrella-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "code-level",
+        "developer experience",
+        "developer observability",
+        "distributed tracing"
+      ],
+      "search": "use code-level analysis to cut mttr before you push to production you deploy a small change to a node.js service. all tests pass. you top off your coffee. fifteen minutes later, alerts start firing. your once-snappy api endpoint is crawling. dashboards light up. slack fills with “anyone seeing latency?” messages. you open the logs and start… devops code-level developer experience developer observability distributed tracing"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73625",
+      "title": "Dynatrace AI agents begin working for you on day one, and are built to grow with you",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-ai-agents-begin-working-for-you-on-day-one-and-are-built-to-grow-with-you/",
+      "publishedAt": "2026-04-03T15:44:42.000Z",
+      "author": "Milan Steskal",
+      "summary": "AI agents are everywhere in tech conversations right now, but what agents can you actually use today to make your job easier? In Dynatrace, ready-made agents help developers, SREs, and IT operations teams investigate issues, understand system behavior, and reduce manual work…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/Ready-made-agent-Blog-FINAL-600x337.png",
+      "categories": [
+        "aiops",
+        "automation"
+      ],
+      "tags": [
+        "AI",
+        "AIOps",
+        "Automation",
+        "Product news",
+        "agentic AI",
+        "Dynatrace Intelligence",
+        "generative AI",
+        "Large Language Models (LLM)",
+        "Workflows"
+      ],
+      "search": "dynatrace ai agents begin working for you on day one, and are built to grow with you ai agents are everywhere in tech conversations right now, but what agents can you actually use today to make your job easier? in dynatrace, ready-made agents help developers, sres, and it operations teams investigate issues, understand system behavior, and reduce manual work… ai aiops automation product news agentic ai dynatrace intelligence generative ai large language models (llm) workflows"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73611",
+      "title": "Nutanix .NEXT 2026: Turning cloud complexity into clarity with AI-powered observability",
+      "link": "https://www.dynatrace.com/news/blog/nutanix-next-2026-turning-cloud-complexity-into-clarity-with-ai-powered-observability/",
+      "publishedAt": "2026-04-02T14:12:18.000Z",
+      "author": "Nick Rando",
+      "summary": "Editor’s note The explosion of applications, data, and cloud-native workloads has created an IT landscape that’s harder than ever to manage. Organizations face overwhelming complexity, fragmented visibility, and mounting pressure to innovate while maintaining uptime and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/04/BAE24870_Blog_Image_NutanixDT_FINAL-600x337.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "Events",
+        "Nutanix",
+        "partners"
+      ],
+      "search": "nutanix .next 2026: turning cloud complexity into clarity with ai-powered observability editor’s note the explosion of applications, data, and cloud-native workloads has created an it landscape that’s harder than ever to manage. organizations face overwhelming complexity, fragmented visibility, and mounting pressure to innovate while maintaining uptime and… partners events nutanix partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73576",
+      "title": "Improved browser monitor experience: Synthetic on the latest Dynatrace platform",
+      "link": "https://www.dynatrace.com/news/blog/improved-browser-monitor-experience-synthetic-on-the-latest-dynatrace-platform/",
+      "publishedAt": "2026-03-27T18:58:19.000Z",
+      "author": "Jacek Janowicz",
+      "summary": "The Synthetic experience on the latest Dynatrace platform is complete with the transition of browser monitors. Once activated, Dynatrace runs browser monitors using the newest RUM JavaScript, delivering more accurate simulations and tighter alignment with Real User Monitoring…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/03/BAE24437_Blog_Browser_Monitoring_D2_FINAL-600x337.png",
+      "categories": [
+        "digital-experience"
+      ],
+      "tags": [
+        "Digital experience",
+        "Product news",
+        "Browser Monitoring",
+        "Digital Experience Monitoring",
+        "Dynatrace version 1.333",
+        "synthetic monitoring"
+      ],
+      "search": "improved browser monitor experience: synthetic on the latest dynatrace platform the synthetic experience on the latest dynatrace platform is complete with the transition of browser monitors. once activated, dynatrace runs browser monitors using the newest rum javascript, delivering more accurate simulations and tighter alignment with real user monitoring… digital experience product news browser monitoring digital experience monitoring dynatrace version 1.333 synthetic monitoring"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73526",
+      "title": "Five real-world lessons for building developer workflows in the agentic era",
+      "link": "https://www.dynatrace.com/news/blog/five-real-world-lessons-for-building-developer-workflows-in-the-agentic-era/",
+      "publishedAt": "2026-03-25T14:16:51.000Z",
+      "author": "Klint Finley",
+      "summary": "Organizations are racing to integrate AI agents into developer and operations workflows. Developers are using coding agents to help build new features and even entire applications, while simultaneously building agents to automate business processes, or even orchestrate…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/P26-800x450-FINALS-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "developer experience",
+        "DevEx",
+        "Perform 2026"
+      ],
+      "search": "five real-world lessons for building developer workflows in the agentic era organizations are racing to integrate ai agents into developer and operations workflows. developers are using coding agents to help build new features and even entire applications, while simultaneously building agents to automate business processes, or even orchestrate… devops developer experience devex perform 2026"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73524",
+      "title": "What’s new in Dynatrace SaaS version 1.335",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-335/",
+      "publishedAt": "2026-03-24T11:01:37.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.335. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.335 we have released dynatrace version 1.335. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73437",
+      "title": "10 things I learned writing 49,000 words about vibe coding",
+      "link": "https://www.dynatrace.com/news/blog/10-things-i-learned-writing-49000-words-about-vibe-coding/",
+      "publishedAt": "2026-03-13T18:03:17.000Z",
+      "author": "Jeff Blankenburg",
+      "summary": "In January 2026, I ran an experiment: I published one blog post every single day for 31 days about building production software with AI. Not toy demos. Not “hello world” chatbots. Real, shipped, supported product. The whole series was built around one project…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/03/BAE24429-SI-31-days-vibecoding-1-1200x628-FINAL-600x314.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "AI",
+        "DevOps",
+        "vibe coding"
+      ],
+      "search": "10 things i learned writing 49,000 words about vibe coding in january 2026, i ran an experiment: i published one blog post every single day for 31 days about building production software with ai. not toy demos. not “hello world” chatbots. real, shipped, supported product. the whole series was built around one project… ai devops vibe coding"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73387",
+      "title": "Strengthen your security posture with the Common Configuration Scoring System for misconfigured production environments",
+      "link": "https://www.dynatrace.com/news/blog/strengthen-your-security-posture-with-the-common-configuration-scoring-system-for-misconfigured-production-environments/",
+      "publishedAt": "2026-03-10T22:30:02.000Z",
+      "author": "Stefan Achleitner",
+      "summary": "Misconfigured components in production remain one of the most common—and most preventable—sources of security risk. To help you better understand and prioritize your organization’s misconfiguration issues, Dynatrace Security Posture Management (SPM) introduced severity…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/10/Blog_-FI-Req-PNB-Automated-Security-Reporting_-high-res-version-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "ccss",
+        "compliance",
+        "Dynatrace",
+        "Misconfigurations",
+        "Security",
+        "spm"
+      ],
+      "search": "strengthen your security posture with the common configuration scoring system for misconfigured production environments misconfigured components in production remain one of the most common—and most preventable—sources of security risk. to help you better understand and prioritize your organization’s misconfiguration issues, dynatrace security posture management (spm) introduced severity… application security product news ccss compliance dynatrace misconfigurations security spm"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73354",
+      "title": "Unlocking CI/CD success with observability",
+      "link": "https://www.dynatrace.com/news/blog/unlocking-ci-cd-success-with-observability/",
+      "publishedAt": "2026-03-10T14:35:31.000Z",
+      "author": "Siva Pillai",
+      "summary": "Tired of your CI/CD pipeline keeping you in the dark? These questions probably sound all too familiar: Where is my pipeline right now? Why is my pipeline slow or unstable? Which tests are flaky and delaying releases? How fast can artifacts reach production? Which phase is…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/11/Blog_-OTP-0030_-Automate-CI-CD-pipelines-with-Dynatrace-Part-1-Build-stage_-high-res-version-600x338.png",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "Engineering",
+        "CI/CD",
+        "Dynatrace workflows",
+        "opentelemetry"
+      ],
+      "search": "unlocking ci/cd success with observability tired of your ci/cd pipeline keeping you in the dark? these questions probably sound all too familiar: where is my pipeline right now? why is my pipeline slow or unstable? which tests are flaky and delaying releases? how fast can artifacts reach production? which phase is… engineering ci/cd dynatrace workflows opentelemetry"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=37767",
+      "title": "What is APM? Application performance monitoring in a cloud-native world",
+      "link": "https://www.dynatrace.com/news/blog/what-is-apm/",
+      "publishedAt": "2026-03-05T08:42:53.000Z",
+      "author": "Jay Livens",
+      "summary": "What is APM? Application performance monitoring (APM) is the practice of tracking key software application performance metrics using monitoring software and telemetry data. Practitioners use APM to ensure system availability, optimize service performance and response times, and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/02/Blog_-INBI-Req_-What-is-APM_-high-res-version-2-1-600x338.png",
+      "categories": [
+        "apps-and-microservices"
+      ],
+      "tags": [
+        "Apps and microservices",
+        "application monitoring",
+        "application performance",
+        "application performance management",
+        "Application performance monitoring"
+      ],
+      "search": "what is apm? application performance monitoring in a cloud-native world what is apm? application performance monitoring (apm) is the practice of tracking key software application performance metrics using monitoring software and telemetry data. practitioners use apm to ensure system availability, optimize service performance and response times, and… apps and microservices application monitoring application performance application performance management application performance monitoring"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73224",
+      "title": "Dynatrace Release Radar 01.26",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-release-radar-2026/",
+      "publishedAt": "2026-03-02T17:29:50.000Z",
+      "author": "Michael Winkler",
+      "summary": "This series covers recent Dynatrace releases and updates, focusing on what’s new, what changed, and how it applies to you and your organization. Each post outlines newly available capabilities and points to places where you can explore them directly, helping you understand…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/03/header_release_radar-600x338.png",
+      "categories": [
+        "aiops"
+      ],
+      "tags": [
+        "AIOps",
+        "Observability",
+        "Product news",
+        "AI Observability",
+        "Dynatrace Intelligence",
+        "Dynatrace release radar",
+        "real-user monitoring",
+        "Release Radar",
+        "Smartscape"
+      ],
+      "search": "dynatrace release radar 01.26 this series covers recent dynatrace releases and updates, focusing on what’s new, what changed, and how it applies to you and your organization. each post outlines newly available capabilities and points to places where you can explore them directly, helping you understand… aiops observability product news ai observability dynatrace intelligence dynatrace release radar real-user monitoring release radar smartscape"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73149",
+      "title": "Why exceptions matter: Elevating your distributed tracing investigations",
+      "link": "https://www.dynatrace.com/news/blog/why-exceptions-matter-elevating-your-distributed-tracing-investigations/",
+      "publishedAt": "2026-02-26T16:11:54.000Z",
+      "author": "Thomas Rothschaedl",
+      "summary": "An exception does not always mean that something in your systems failed, but they can indicate current performance problems or issues that could cause failures in the future. For developers, investigating exceptions has traditionally been slow and tedious, requiring you to…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/1230751174-1-600x338.png",
+      "categories": [
+        "devops",
+        "engineering"
+      ],
+      "tags": [
+        "DevOps",
+        "Engineering",
+        "distributed tracing",
+        "distributed tracing app",
+        "Exceptions",
+        "Exceptions analysis"
+      ],
+      "search": "why exceptions matter: elevating your distributed tracing investigations an exception does not always mean that something in your systems failed, but they can indicate current performance problems or issues that could cause failures in the future. for developers, investigating exceptions has traditionally been slow and tedious, requiring you to… devops engineering distributed tracing distributed tracing app exceptions exceptions analysis"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73150",
+      "title": "Ingest, enrich, and deduplicate Qualys vulnerability findings with Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/ingest-enrich-and-deduplicate-qualys-vulnerability-findings-with-dynatrace/",
+      "publishedAt": "2026-02-25T17:38:53.000Z",
+      "author": "Valeriy Leykin",
+      "summary": "Dynatrace integrates with Qualys to help DevSecOps teams reduce alert fatigue by unifying and deduplicating vulnerability findings, contextualizing findings with runtime entities, and offering smarter prioritization, automation, and remediation.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/02/Blog-OTP-23994_DT-Qualys_2x-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "data ingest",
+        "DevSecOps",
+        "Vulnerabilities"
+      ],
+      "search": "ingest, enrich, and deduplicate qualys vulnerability findings with dynatrace dynatrace integrates with qualys to help devsecops teams reduce alert fatigue by unifying and deduplicating vulnerability findings, contextualizing findings with runtime entities, and offering smarter prioritization, automation, and remediation. application security product news data ingest devsecops vulnerabilities"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73116",
+      "title": "Deep troubleshooting and crash intelligence in the new Dynatrace RUM experience",
+      "link": "https://www.dynatrace.com/news/blog/deep-troubleshooting-and-crash-intelligence-in-the-new-dynatrace-rum-experience/",
+      "publishedAt": "2026-02-20T17:08:10.000Z",
+      "author": "Dripto Sinha",
+      "summary": "Mobile teams have spent years stitching together crash logs, SDK outputs, and guesswork to understand why their apps freeze, crash, or feel slow. Dynatrace has removed that friction with a mobile troubleshooting experience that unifies performance and stability into streamlined…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/02/Blog-OTP-313_Troubleshooting-RUM-Experience-600x338.png",
+      "categories": [
+        "digital-experience"
+      ],
+      "tags": [
+        "Digital experience",
+        "Product news",
+        "Development",
+        "Digital Experience Monitoring",
+        "mobile",
+        "real-user monitoring",
+        "RUM on 3rd Gen",
+        "troubleshooting"
+      ],
+      "search": "deep troubleshooting and crash intelligence in the new dynatrace rum experience mobile teams have spent years stitching together crash logs, sdk outputs, and guesswork to understand why their apps freeze, crash, or feel slow. dynatrace has removed that friction with a mobile troubleshooting experience that unifies performance and stability into streamlined… digital experience product news development digital experience monitoring mobile real-user monitoring rum on 3rd gen troubleshooting"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71802",
+      "title": "DevOps and platform engineering: Building scalable software delivery in cloud-native enterprises",
+      "link": "https://www.dynatrace.com/news/blog/building-scalable-software-delivery-in-cloud-native-enterprises/",
+      "publishedAt": "2026-02-15T09:43:37.000Z",
+      "author": "Wolfgang Heider",
+      "summary": "As organizations accelerate their cloud-native transformations, the relationship between DevOps and platform engineering has become critical to sustainable software delivery at scale. While DevOps provides the cultural framework and practices for continuous delivery, platform…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2022/07/3d-futuristic-circuit-ba-600x316.jpg",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "platform engineering",
+        "software development"
+      ],
+      "search": "devops and platform engineering: building scalable software delivery in cloud-native enterprises as organizations accelerate their cloud-native transformations, the relationship between devops and platform engineering has become critical to sustainable software delivery at scale. while devops provides the cultural framework and practices for continuous delivery, platform… devops platform engineering software development"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73054",
+      "title": "Dynatrace accelerates a new era of growth and innovation with AWS",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-accelerates-a-new-era-of-growth-and-innovation-with-aws/",
+      "publishedAt": "2026-02-09T16:58:02.000Z",
+      "author": "Jay Snyder",
+      "summary": "Dynatrace has accelerated its business and deepened its strategic collaboration with AWS, surpassing $1 billion in AWS Marketplace sales, achieving the AWS Financial Services Competency, and expanding AI capabilities for enterprises worldwide.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/07/BAE3176_RC_SolutionPartners_Cobrand_DARK_AWS_800x450_FINAL_webready-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "agentic AI",
+        "AWS",
+        "partners"
+      ],
+      "search": "dynatrace accelerates a new era of growth and innovation with aws dynatrace has accelerated its business and deepened its strategic collaboration with aws, surpassing $1 billion in aws marketplace sales, achieving the aws financial services competency, and expanding ai capabilities for enterprises worldwide. partners agentic ai aws partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=73000",
+      "title": "Building trust in agentic AI: An observability‑led 90‑day action plan",
+      "link": "https://www.dynatrace.com/news/blog/agentic-ai-report-new-observability-strategy/",
+      "publishedAt": "2026-02-05T17:06:38.000Z",
+      "author": "Bob Wambach",
+      "summary": "Agentic AI is gaining traction quickly in pursuit of autonomous operations. But establishing the trust, reliability, and governance required to derive real business value is proving more challenging. New Dynatrace research suggests ways leaders can pair human oversight with…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/02/The-Pulse-of-Agentic-AI-2026-Blog-image-Action-Plan-600x338.png",
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "AI",
+        "Company and culture",
+        "agentic AI",
+        "AI Governance",
+        "AI Strategy",
+        "Digital Transformation",
+        "observability"
+      ],
+      "search": "building trust in agentic ai: an observability‑led 90‑day action plan agentic ai is gaining traction quickly in pursuit of autonomous operations. but establishing the trust, reliability, and governance required to derive real business value is proving more challenging. new dynatrace research suggests ways leaders can pair human oversight with… ai company and culture agentic ai ai governance ai strategy digital transformation observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72974",
+      "title": "Smarter vulnerability remediation with Dynatrace and Atlassian Rovo Dev",
+      "link": "https://www.dynatrace.com/news/blog/smarter-vulnerability-remediation-with-dynatrace-and-atlassian-rovo-dev/",
+      "publishedAt": "2026-02-03T17:58:13.000Z",
+      "author": "Aylin Sali",
+      "summary": "Application vulnerabilities are a persistent challenge for development teams. The sheer volume of detected CVEs can overwhelm teams, making it difficult to prioritize and remediate effectively.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/02/BAEXXXX_BLOG_Image_ROVO-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "Application Security",
+        "Dev",
+        "Rovo",
+        "runtime vulnerability analysis"
+      ],
+      "search": "smarter vulnerability remediation with dynatrace and atlassian rovo dev application vulnerabilities are a persistent challenge for development teams. the sheer volume of detected cves can overwhelm teams, making it difficult to prioritize and remediate effectively. application security product news application security dev rovo runtime vulnerability analysis"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72965",
+      "title": "Adriana Villela of Dynatrace takes on OpenTelemetry community manager role",
+      "link": "https://www.dynatrace.com/news/blog/adriana-villela-of-dynatrace-takes-on-opentelemetry-community-manager-role/",
+      "publishedAt": "2026-02-02T20:53:14.000Z",
+      "author": "Klint Finley",
+      "summary": "Dynatrace principal developer advocate Adriana Villela is stepping up her involvement with the OpenTelemetry® community. As of today, she will be taking on the role of OpenTelemetry community manager, alongside Reese Lee of New Relic. They are joined by Julia Furst Morgado, of…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/OpenTelemetry-Dynatrace_high_res_ver-600x338.png",
+      "categories": [
+        "company-culture",
+        "open-source"
+      ],
+      "tags": [
+        "Company and culture",
+        "Open Source",
+        "open source",
+        "opentelemetry"
+      ],
+      "search": "adriana villela of dynatrace takes on opentelemetry community manager role dynatrace principal developer advocate adriana villela is stepping up her involvement with the opentelemetry® community. as of today, she will be taking on the role of opentelemetry community manager, alongside reese lee of new relic. they are joined by julia furst morgado, of… company and culture open source open source opentelemetry"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72958",
+      "title": "Introducing the Dynatrace Vulnerability feed: Accurate, transparent, and threat-aware",
+      "link": "https://www.dynatrace.com/news/blog/introducing-the-dynatrace-vulnerability-feed-accurate-transparent-and-threat-aware/",
+      "publishedAt": "2026-02-02T18:20:34.000Z",
+      "author": "Bojan Magusic",
+      "summary": "Trusted vulnerability data empowers teams to make faster and clearer security decisions. That’s why we’re elevating the Dynatrace Vulnerabilities app with the Dynatrace Vulnerability feed: a new, native source of vulnerability intelligence that’s more accurate, transparent, and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/Blog-OTP-0002_1x-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "CVEs",
+        "Dynatrace",
+        "Dynatrace version 1.334",
+        "GitHub",
+        "Managed version 1.334",
+        "NVD",
+        "osv.dev",
+        "Security",
+        "Vulnerabilities"
+      ],
+      "search": "introducing the dynatrace vulnerability feed: accurate, transparent, and threat-aware trusted vulnerability data empowers teams to make faster and clearer security decisions. that’s why we’re elevating the dynatrace vulnerabilities app with the dynatrace vulnerability feed: a new, native source of vulnerability intelligence that’s more accurate, transparent, and… application security product news cves dynatrace dynatrace version 1.334 github managed version 1.334 nvd osv.dev security vulnerabilities"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72345",
+      "title": "Unprecedented insights into frontend user experience with Dynatrace Real User Monitoring",
+      "link": "https://www.dynatrace.com/news/blog/unprecedented-insights-into-frontend-user-experience-with-dynatrace-real-user-monitoring/",
+      "publishedAt": "2026-01-28T16:55:06.000Z",
+      "author": "Dripto Sinha",
+      "summary": "The next-generation Dynatrace® Real User Monitoring (RUM) experience, powered by Grail® and DQL, delivers unified, actionable insights across modern web and mobile applications. By extending cloud native observability to the frontend, Dynatrace unifies user experience data with…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog-OTP_User_Experience_Monitoring_1600x900-600x338.png",
+      "categories": [
+        "digital-experience"
+      ],
+      "tags": [
+        "Digital experience",
+        "Product news",
+        "Digital Experience Monitoring",
+        "performance monitoring",
+        "real-user monitoring",
+        "RUM on 3rd Gen",
+        "troubleshooting"
+      ],
+      "search": "unprecedented insights into frontend user experience with dynatrace real user monitoring the next-generation dynatrace® real user monitoring (rum) experience, powered by grail® and dql, delivers unified, actionable insights across modern web and mobile applications. by extending cloud native observability to the frontend, dynatrace unifies user experience data with… digital experience product news digital experience monitoring performance monitoring real-user monitoring rum on 3rd gen troubleshooting"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72756",
+      "title": "Dynatrace introduces a new foundation for agentic AI at Perform 2026",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-introduces-a-new-foundation-for-agentic-ai-at-perform-2026/",
+      "publishedAt": "2026-01-28T16:50:14.000Z",
+      "author": "Steve Tack",
+      "summary": "The agentic era has arrived, bringing together human insight and autonomous intelligence in entirely new ways. The pressure is high for enterprises to become “AI-first,” but as we explored in our inaugural Agentic AI Research Report, most organizations are stuck in pilot-mode…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/P26-800x450-FINALS-600x338.png",
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "AI",
+        "Company and culture",
+        "agentic AI",
+        "Perform 2026"
+      ],
+      "search": "dynatrace introduces a new foundation for agentic ai at perform 2026 the agentic era has arrived, bringing together human insight and autonomous intelligence in entirely new ways. the pressure is high for enterprises to become “ai-first,” but as we explored in our inaugural agentic ai research report, most organizations are stuck in pilot-mode… ai company and culture agentic ai perform 2026"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72710",
+      "title": "Dynatrace Intelligence at the core of autonomous operations",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-intelligence-at-the-core-of-autonomous-operations/",
+      "publishedAt": "2026-01-28T16:47:00.000Z",
+      "author": "Bernd Greifeneder",
+      "summary": "Executives are looking for successful ways to run their digital ecosystems with AI as cloud and AI adoption reach unprecedented complexity. Organizations are increasingly recognizing that agentic AI on its own can’t deliver the consistent, trustworthy outcomes they expect. With…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog-OTP_Intelligence_Core_Autonomous_Operations_800x450-600x338.png",
+      "categories": [
+        "aiops",
+        "automation",
+        "company-culture"
+      ],
+      "tags": [
+        "AI",
+        "AIOps",
+        "Automation",
+        "Company and culture",
+        "autonomous intelligence"
+      ],
+      "search": "dynatrace intelligence at the core of autonomous operations executives are looking for successful ways to run their digital ecosystems with ai as cloud and ai adoption reach unprecedented complexity. organizations are increasingly recognizing that agentic ai on its own can’t deliver the consistent, trustworthy outcomes they expect. with… ai aiops automation company and culture autonomous intelligence"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72713",
+      "title": "Human creativity meets agentic intelligence: Your guide to Perform 2026",
+      "link": "https://www.dynatrace.com/news/blog/human-creativity-meets-agentic-intelligence-your-guide-to-perform-2026/",
+      "publishedAt": "2026-01-26T14:22:39.000Z",
+      "author": "Klint Finley",
+      "summary": "Key takeaways: Perform 2026 will demonstrate how blending human creativity with agentic AI unlocks new levels of business impact to thrive in the agentic AI era. Attendees will gain actionable strategies for moving stalled AI pilots to scalable, high‑value AI adoption. Perform…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/P26-800x450-FINALS-600x338.png",
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "AI",
+        "Company and culture",
+        "agentic AI",
+        "Perform 2026"
+      ],
+      "search": "human creativity meets agentic intelligence: your guide to perform 2026 key takeaways: perform 2026 will demonstrate how blending human creativity with agentic ai unlocks new levels of business impact to thrive in the agentic ai era. attendees will gain actionable strategies for moving stalled ai pilots to scalable, high‑value ai adoption. perform… ai company and culture agentic ai perform 2026"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72552",
+      "title": "Autonomous operations hits an inflection point: New agentic AI report reveals what’s fueling scale (and blocking it)",
+      "link": "https://www.dynatrace.com/news/blog/agentic-ai-report-reliable-autonomous-operations/",
+      "publishedAt": "2026-01-22T13:48:03.000Z",
+      "author": "Bob Wambach",
+      "summary": "A new study of 919 leaders shows how organizations are adopting agentic AI and where they’re facing challenges on the path to autonomous operations. As enterprises scale from pilots to production, they need strong guardrails and real‑time observability.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/The-Pulse-of-Agentic-AI-2026-Blog-Findings-600x338.png",
+      "categories": [
+        "aiops"
+      ],
+      "tags": [
+        "AI",
+        "AIOps",
+        "Observability",
+        "AI Observability"
+      ],
+      "search": "autonomous operations hits an inflection point: new agentic ai report reveals what’s fueling scale (and blocking it) a new study of 919 leaders shows how organizations are adopting agentic ai and where they’re facing challenges on the path to autonomous operations. as enterprises scale from pilots to production, they need strong guardrails and real‑time observability. ai aiops observability ai observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72599",
+      "title": "How to mask PII like email addresses appearing in logs with Dynatrace: An advanced use case",
+      "link": "https://www.dynatrace.com/news/blog/how-to-mask-pii-like-email-addresses-appearing-in-logs-with-dynatrace-an-advanced-use-case/",
+      "publishedAt": "2026-01-21T22:50:02.000Z",
+      "author": "Amrith Raj",
+      "summary": "Protecting Personally Identifiable Information (PII) data in logs is crucial for supporting privacy and compliance. While Dynatrace OneAgent can mask data at capture/source, sensitive information like social security numbers (SSNs), payment details, IP addresses, or email…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/07/Blog_-FI-Req-HANS-LOGS-OpenTelemetry-log-ingest_-high-res-version-1-600x338.png",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "Engineering",
+        "log management and analytics",
+        "OpenPipeline"
+      ],
+      "search": "how to mask pii like email addresses appearing in logs with dynatrace: an advanced use case protecting personally identifiable information (pii) data in logs is crucial for supporting privacy and compliance. while dynatrace oneagent can mask data at capture/source, sensitive information like social security numbers (ssns), payment details, ip addresses, or email… engineering log management and analytics openpipeline"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72554",
+      "title": "Next-level batch job monitoring and alerting part 2: Using AI to automatically identify issues and workflows to remediate them",
+      "link": "https://www.dynatrace.com/news/blog/next-level-batch-job-monitoring-and-alerting-part-2-using-ai-to-automatically-identify-issues-and-workflows-to-remediate-them/",
+      "publishedAt": "2026-01-21T14:38:37.000Z",
+      "author": "Nikhil Goenka",
+      "summary": "Let’s say you have a nightly account update batch job that processes user transactions, recalculates balances, and synchronizes data across services in a financial application. If it fails or gets stuck and consumes so many resources that your service degrades, you’ll suffer…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog_-OTP-288_Practitioner_2x-600x338.png",
+      "categories": [
+        "engineering"
+      ],
+      "tags": [
+        "AI",
+        "Engineering",
+        "Automation",
+        "EdgeConnect",
+        "Log Alerts",
+        "log management and analytics"
+      ],
+      "search": "next-level batch job monitoring and alerting part 2: using ai to automatically identify issues and workflows to remediate them let’s say you have a nightly account update batch job that processes user transactions, recalculates balances, and synchronizes data across services in a financial application. if it fails or gets stuck and consumes so many resources that your service degrades, you’ll suffer… ai engineering automation edgeconnect log alerts log management and analytics"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72501",
+      "title": "Flexible vendor-agnostic log forwarding with OpenPipeline",
+      "link": "https://www.dynatrace.com/news/blog/flexible-vendor-agnostic-log-forwarding-with-openpipeline/",
+      "publishedAt": "2026-01-16T19:41:14.000Z",
+      "author": "Gerd Eberhardt",
+      "summary": "Log forwarding includes metrics, spans, and events Logs are a core pillar of observability, and in many organizations, logs serve at least a dual purpose. They drive day-to-day troubleshooting, root cause analysis, security investigations, and many other use cases. Logs also…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/openpipeline-600x338.png",
+      "categories": [
+        "aiops"
+      ],
+      "tags": [
+        "AIOps",
+        "Observability",
+        "Product news",
+        "compliance",
+        "Data Archival",
+        "Forwarding",
+        "Governance",
+        "Historical analysis",
+        "log management",
+        "logs",
+        "OpenPipeline",
+        "SIEM integration"
+      ],
+      "search": "flexible vendor-agnostic log forwarding with openpipeline log forwarding includes metrics, spans, and events logs are a core pillar of observability, and in many organizations, logs serve at least a dual purpose. they drive day-to-day troubleshooting, root cause analysis, security investigations, and many other use cases. logs also… aiops observability product news compliance data archival forwarding governance historical analysis log management logs openpipeline siem integration"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72456",
+      "title": "How Dynatrace supercharged log observability in 2025",
+      "link": "https://www.dynatrace.com/news/blog/how-dynatrace-supercharged-log-observability-in-2025/",
+      "publishedAt": "2026-01-15T17:18:49.000Z",
+      "author": "Christian Schwendemann",
+      "summary": "Large enterprises such as Western Union, Vodafone, and United Airlines are ditching legacy log solutions in favor of a single, unified observability platform that delivers real-time insights and scalability at the petabyte level, as you’ll hear firsthand from them at Perform…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog-OTP-0203_New-Logs-App_1x-600x338.png",
+      "categories": [
+        "infrastructure"
+      ],
+      "tags": [
+        "Infrastructure",
+        "Observability",
+        "Product news",
+        "log analytics",
+        "log management",
+        "logs"
+      ],
+      "search": "how dynatrace supercharged log observability in 2025 large enterprises such as western union, vodafone, and united airlines are ditching legacy log solutions in favor of a single, unified observability platform that delivers real-time insights and scalability at the petabyte level, as you’ll hear firsthand from them at perform… infrastructure observability product news log analytics log management logs"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72427",
+      "title": "Dynatrace acquires DevCycle to strengthen feature delivery for modern cloud and AI-native workloads",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-acquires-devcycle-to-strengthen-feature-delivery/",
+      "publishedAt": "2026-01-13T20:59:17.000Z",
+      "author": "Alois Reitbauer",
+      "summary": "Safer feature releases with real-time insight.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/1600x900-600x338.png",
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "AI",
+        "Company and culture",
+        "cloud native",
+        "developer experience"
+      ],
+      "search": "dynatrace acquires devcycle to strengthen feature delivery for modern cloud and ai-native workloads safer feature releases with real-time insight. ai company and culture cloud native developer experience"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=60504",
+      "title": "What is platform engineering? How does it work?",
+      "link": "https://www.dynatrace.com/news/blog/what-is-platform-engineering/",
+      "publishedAt": "2026-01-12T19:32:14.000Z",
+      "author": "Jacob Hanley",
+      "summary": "Platform engineering enables development teams to deliver a frictionless, self-service developer experience with minimum overhead. Learn the importance of platform engineers and more.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2022/07/3d-futuristic-circuit-ba-600x316.jpg",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "platform engineering",
+        "self-service capabilities",
+        "software development"
+      ],
+      "search": "what is platform engineering? how does it work? platform engineering enables development teams to deliver a frictionless, self-service developer experience with minimum overhead. learn the importance of platform engineers and more. devops platform engineering self-service capabilities software development"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72390",
+      "title": "Strengthen production security: Bridge SDLC best practices with runtime validation",
+      "link": "https://www.dynatrace.com/news/blog/strengthen-production-security-bridge-sdlc-best-practices-with-runtime-validation/",
+      "publishedAt": "2026-01-09T16:16:45.000Z",
+      "author": "Bojan Magusic",
+      "summary": "Modern software systems face constant security threats. While integrating security measures throughout the software development lifecycle (SDLC) helps reduce risks, some vulnerabilities may still go undetected. Combining SDLC best practices with runtime validation helps…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog-OTP-310_Actionable-Security-in-Production_high_2x-600x338.png",
+      "categories": [
+        "application-security",
+        "engineering"
+      ],
+      "tags": [
+        "Application security",
+        "Engineering",
+        "App security",
+        "DevSecOps",
+        "reference architecture",
+        "runtime application security protection",
+        "Runtime vulnerability management",
+        "SDLC"
+      ],
+      "search": "strengthen production security: bridge sdlc best practices with runtime validation modern software systems face constant security threats. while integrating security measures throughout the software development lifecycle (sdlc) helps reduce risks, some vulnerabilities may still go undetected. combining sdlc best practices with runtime validation helps… application security engineering app security devsecops reference architecture runtime application security protection runtime vulnerability management sdlc"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72347",
+      "title": "Write the future: Create your own agentic workflows",
+      "link": "https://www.dynatrace.com/news/blog/write-the-future-create-your-own-agentic-workflows/",
+      "publishedAt": "2026-01-08T08:00:10.000Z",
+      "author": "Rosa Van Dam",
+      "summary": "Imagine commissioning le Carré and Fleming to build your perfect undercover agent: quietly embedded in the system you’re watching. You hand in your mission brief, which includes the target, objective, and behaviors to track. Your agent observes without drawing attention…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/01/Blog-OTP-0294_CoPilot-in-Workflows_2x-600x338.png",
+      "categories": [
+        "aiops"
+      ],
+      "tags": [
+        "AI",
+        "AIOps",
+        "Observability",
+        "Product news",
+        "agentic AI",
+        "Automation",
+        "Davis AI",
+        "Davis CoPilot",
+        "generative AI",
+        "Large Language Models (LLM)",
+        "Workflows"
+      ],
+      "search": "write the future: create your own agentic workflows imagine commissioning le carre and fleming to build your perfect undercover agent: quietly embedded in the system you’re watching. you hand in your mission brief, which includes the target, objective, and behaviors to track. your agent observes without drawing attention… ai aiops observability product news agentic ai automation davis ai davis copilot generative ai large language models (llm) workflows"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72376",
+      "title": "From incident response to everyday analytics: Introducing Dynatrace Investigations",
+      "link": "https://www.dynatrace.com/news/blog/from-incident-response-to-everyday-analytics-introducing-dynatrace-investigations/",
+      "publishedAt": "2026-01-07T18:22:44.000Z",
+      "author": "Bojan Magusic",
+      "summary": "Unlocking actionable insights from data is no longer just a security concern—it’s essential for any team that needs to make sense of large, complex data sets. The recently renamed “Investigations” app (previously known as “Security Investigator”) empowers you to analyze logs…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/08/Blog_-OTP-0073_-web-res-version-3-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Observability",
+        "Product news",
+        "analysis",
+        "DQL",
+        "Grail",
+        "investigations",
+        "Security"
+      ],
+      "search": "from incident response to everyday analytics: introducing dynatrace investigations unlocking actionable insights from data is no longer just a security concern—it’s essential for any team that needs to make sense of large, complex data sets. the recently renamed “investigations” app (previously known as “security investigator”) empowers you to analyze logs… application security observability product news analysis dql grail investigations security"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72365",
+      "title": "Accelerate SNMP network device observability with Dynatrace Discovery & Coverage",
+      "link": "https://www.dynatrace.com/news/blog/accelerate-snmp-network-device-observability-with-dynatrace-discovery-coverage/",
+      "publishedAt": "2026-01-06T20:23:04.000Z",
+      "author": "Benoît Lourdelet",
+      "summary": "When onboarding network devices for observability, challenges often arise related to inconsistent or partial monitoring coverage or inefficient processes. Such challenges make it difficult to ensure that all devices are properly and uniformly monitored and can provide actionable…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/07/Blog_-OTP-0165_-high-res-version-600x338.png",
+      "categories": [
+        "infrastructure"
+      ],
+      "tags": [
+        "Infrastructure",
+        "Observability",
+        "Product news",
+        "Discovery & Coverage",
+        "network device monitoring",
+        "observability",
+        "SNMP monitoring"
+      ],
+      "search": "accelerate snmp network device observability with dynatrace discovery & coverage when onboarding network devices for observability, challenges often arise related to inconsistent or partial monitoring coverage or inefficient processes. such challenges make it difficult to ensure that all devices are properly and uniformly monitored and can provide actionable… infrastructure observability product news discovery & coverage network device monitoring observability snmp monitoring"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72335",
+      "title": "Reliable enterprise automation at scale: Accelerate the innovation loop with Dynatrace Workflows",
+      "link": "https://www.dynatrace.com/news/blog/reliable-enterprise-automation-at-scale-accelerate-the-innovation-loop-with-dynatrace-workflows/",
+      "publishedAt": "2026-01-05T15:00:57.000Z",
+      "author": "Rosa Van Dam",
+      "summary": "Enterprise automation rarely fails because teams lack ideas. It fails because scaling automation safely is challenging, and conventional workflows often remain static after they ship, while systems and conditions continue to evolve. The new update to Dynatrace Workflows helps…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/06/Blog_-FI-Req-Practitioner-Ecosystem-extensibility_-high-res-version-600x338.png",
+      "categories": [
+        "aiops"
+      ],
+      "tags": [
+        "AI",
+        "AIOps",
+        "Observability",
+        "Product news",
+        "audit",
+        "Automation",
+        "compliance",
+        "Dynatrace workflows",
+        "enterprise scale",
+        "Innovation",
+        "SRE",
+        "workflow automation",
+        "Workflows"
+      ],
+      "search": "reliable enterprise automation at scale: accelerate the innovation loop with dynatrace workflows enterprise automation rarely fails because teams lack ideas. it fails because scaling automation safely is challenging, and conventional workflows often remain static after they ship, while systems and conditions continue to evolve. the new update to dynatrace workflows helps… ai aiops observability product news audit automation compliance dynatrace workflows enterprise scale innovation sre workflow automation workflows"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72314",
+      "title": "Introducing findings in the Vulnerabilities app: Unified, granular insights for smarter security",
+      "link": "https://www.dynatrace.com/news/blog/introducing-findings-in-the-vulnerabilities-app-unified-granular-insights-for-smarter-security/",
+      "publishedAt": "2025-12-29T17:03:27.000Z",
+      "author": "Liisa Tallinn",
+      "summary": "The new Findings tab in the Dynatrace Vulnerabilities app introduces a unified, analytics-ready view of all security findings across your Dynatrace environment and integrated tools. By exposing atomic-level findings alongside existing stateful vulnerabilities, you gain deeper…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/Blog-OTP-0002_1x-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "Application Security",
+        "security vulnerabilities"
+      ],
+      "search": "introducing findings in the vulnerabilities app: unified, granular insights for smarter security the new findings tab in the dynatrace vulnerabilities app introduces a unified, analytics-ready view of all security findings across your dynatrace environment and integrated tools. by exposing atomic-level findings alongside existing stateful vulnerabilities, you gain deeper… application security product news application security security vulnerabilities"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72309",
+      "title": "Is it vibe coding if you know what you’re doing?",
+      "link": "https://www.dynatrace.com/news/blog/is-it-vibe-coding-if-you-know-what-youre-doing/",
+      "publishedAt": "2025-12-23T20:15:07.000Z",
+      "author": "Jeff Blankenburg",
+      "summary": "When people first started saying they were using AI to build full apps, I was wildly skeptical. You’ve heard these stories too, right? “I built a complete SaaS platform in one weekend using ChatGPT!” Sure, you did. But I kept hearing it. Over and over. Whole apps. Entire…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/Blog-OTP-0289_Observability-for-Agentic-AI_2x-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "AI",
+        "DevOps",
+        "Engineering",
+        "Observability",
+        "developer",
+        "observability"
+      ],
+      "search": "is it vibe coding if you know what you’re doing? when people first started saying they were using ai to build full apps, i was wildly skeptical. you’ve heard these stories too, right? “i built a complete saas platform in one weekend using chatgpt!” sure, you did. but i kept hearing it. over and over. whole apps. entire… ai devops engineering observability developer observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72116",
+      "title": "When your service won’t wait: Troubleshooting EasyTrade with Dynatrace MCP and Gemini CLI",
+      "link": "https://www.dynatrace.com/news/blog/troubleshooting-easytrade-with-dynatrace-mcp-and-gemini-cli/",
+      "publishedAt": "2025-12-18T13:55:48.000Z",
+      "author": "Michael Villiger",
+      "summary": "You know that moment when everything should be working, but it’s just not? Your deployment went smoothly, the pods are running, and yet — errors. Lots of them. That’s exactly where I found myself recently. The EasyTrade application was throwing fits, and I needed answers fast…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/Blog_RC_DT-Gemini_web-version-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Engineering",
+        "Partners",
+        "AI",
+        "Gemini CLI",
+        "google",
+        "Google Cloud",
+        "MCP"
+      ],
+      "search": "when your service won’t wait: troubleshooting easytrade with dynatrace mcp and gemini cli you know that moment when everything should be working, but it’s just not? your deployment went smoothly, the pods are running, and yet — errors. lots of them. that’s exactly where i found myself recently. the easytrade application was throwing fits, and i needed answers fast… engineering partners ai gemini cli google google cloud mcp"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72228",
+      "title": "Six observability predictions for 2026",
+      "link": "https://www.dynatrace.com/news/blog/six-observability-predictions-for-2026/",
+      "publishedAt": "2025-12-17T13:55:29.000Z",
+      "author": "Bernd Greifeneder",
+      "summary": "Digital systems will continue to grow in scale and complexity in 2026, driven by the rapid adoption of agentic AI, unified telemetry, and cloud-native delivery models. These shifts will influence how organizations understand system behavior, prepare for autonomy, and maintain…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/2026-Prediction-0-Header-image_v1-600x338.png",
+      "categories": [
+        "aiops"
+      ],
+      "tags": [
+        "AI",
+        "AIOps",
+        "Observability",
+        "AI Observability",
+        "technology predictions"
+      ],
+      "search": "six observability predictions for 2026 digital systems will continue to grow in scale and complexity in 2026, driven by the rapid adoption of agentic ai, unified telemetry, and cloud-native delivery models. these shifts will influence how organizations understand system behavior, prepare for autonomy, and maintain… ai aiops observability ai observability technology predictions"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72191",
+      "title": "AI’s surprising role in chaos engineering",
+      "link": "https://www.dynatrace.com/news/blog/ais-surprising-role-in-chaos-engineering/",
+      "publishedAt": "2025-12-10T18:30:32.000Z",
+      "author": "Klint Finley",
+      "summary": "Software quality isn’t just about clean code. Bartek Pisulak, Director of Cloud Quality Engineering at Pegasystems, says it’s also about architecture, documentation, and processes working in harmony. But today’s systems are so complex that even small failures can ripple into…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/BAE-RC-Pure-Performance-800x450-1-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "AI",
+        "DevOps",
+        "chaos engineering",
+        "engineering"
+      ],
+      "search": "ai’s surprising role in chaos engineering software quality isn’t just about clean code. bartek pisulak, director of cloud quality engineering at pegasystems, says it’s also about architecture, documentation, and processes working in harmony. but today’s systems are so complex that even small failures can ripple into… ai devops chaos engineering engineering"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72128",
+      "title": "CVE-2025-55182: React2Shell Critical Vulnerability — what it is and what to do",
+      "link": "https://www.dynatrace.com/news/blog/cve-2025-55182-react2shell-critical-vulnerability-what-it-is-and-what-to-do/",
+      "publishedAt": "2025-12-05T14:55:34.000Z",
+      "author": "Jasper Juergensen",
+      "summary": "TL;DR: A critical flaw in React’s Flight protocol (CVE-2025-55182) allows attackers to run code on servers using React Server Components. In short, if your organization uses React Server Components, Next.js, or related frameworks, attackers could potentially take control of your…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/BAE18313-RC-Security-Blog-Radar-800x450-1-600x338.png",
+      "categories": [
+        "application-security",
+        "vulnerability-insights"
+      ],
+      "tags": [
+        "Application security",
+        "Engineering",
+        "Vulnerability Insights"
+      ],
+      "search": "cve-2025-55182: react2shell critical vulnerability — what it is and what to do tl;dr: a critical flaw in react’s flight protocol (cve-2025-55182) allows attackers to run code on servers using react server components. in short, if your organization uses react server components, next.js, or related frameworks, attackers could potentially take control of your… application security engineering vulnerability insights"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72110",
+      "title": "Optimizing AI ROI from DevOps and IT Operations: The rising need for AI/LLM observability",
+      "link": "https://www.dynatrace.com/news/blog/optimizing-ai-roi-from-devops-and-it-operations/",
+      "publishedAt": "2025-12-03T18:09:08.000Z",
+      "author": "Stephen Elliot",
+      "summary": "Every organization is adopting GenAI across its infrastructure and application stacks. It’s important that IT operations teams seek a seat at the table because large swaths of models will be deployed across every technology. For example, the use of cloud migrations, GenAI large…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/Blog__FI_Req_PNB_observability_for_relational_databases_copy__web_res_verion-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "AI",
+        "DevOps",
+        "AI Observability",
+        "GenAI",
+        "IDC",
+        "Large Language Models (LLM)",
+        "LLM observability"
+      ],
+      "search": "optimizing ai roi from devops and it operations: the rising need for ai/llm observability every organization is adopting genai across its infrastructure and application stacks. it’s important that it operations teams seek a seat at the table because large swaths of models will be deployed across every technology. for example, the use of cloud migrations, genai large… ai devops ai observability genai idc large language models (llm) llm observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72090",
+      "title": "Smarter cloud security with Dynatrace and Kiro CLI",
+      "link": "https://www.dynatrace.com/news/blog/smarter-cloud-security-with-dynatrace-and-kiro-cli/",
+      "publishedAt": "2025-12-01T17:22:25.000Z",
+      "author": "Valeriy Leykin",
+      "summary": "Cloud misconfigurations are a persistent challenge for Site Reliability Engineers (SREs). The sheer volume of high and critical alerts can overwhelm teams, making it difficult to prioritize and remediate effectively.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/12/Blog-OTP-309_Amazon-Q-Developer-CLI_2x-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "AI",
+        "AWS",
+        "Kiro CLI",
+        "Remediation",
+        "Security"
+      ],
+      "search": "smarter cloud security with dynatrace and kiro cli cloud misconfigurations are a persistent challenge for site reliability engineers (sres). the sheer volume of high and critical alerts can overwhelm teams, making it difficult to prioritize and remediate effectively. application security product news ai aws kiro cli remediation security"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72031",
+      "title": "AWS re:Invent 2025: Accelerate into the age of agentic with AI-powered observability",
+      "link": "https://www.dynatrace.com/news/blog/aws-reinvent-2025-accelerate-into-the-age-of-agentic-with-ai-powered-observability/",
+      "publishedAt": "2025-11-25T14:00:02.000Z",
+      "author": "Nick Rando",
+      "summary": "Editor’s note At AWS re:Invent, innovation isn’t just a topic of conversation — it’s on full display for the world to see. As we prepare for the latest innovations from the expo floor in Las Vegas, the message is clear: The future is AI-driven, and the foundation for success is…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2021/05/DT_AWS-600x338.jpg",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Observability",
+        "Partners",
+        "agentic AI",
+        "AI",
+        "AWS",
+        "AWS re:Invent",
+        "Cloud",
+        "partners",
+        "Re:Invent"
+      ],
+      "search": "aws re:invent 2025: accelerate into the age of agentic with ai-powered observability editor’s note at aws re:invent, innovation isn’t just a topic of conversation — it’s on full display for the world to see. as we prepare for the latest innovations from the expo floor in las vegas, the message is clear: the future is ai-driven, and the foundation for success is… observability partners agentic ai ai aws aws re:invent cloud partners re:invent"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=72006",
+      "title": "Want to catch the AI native wave? Learn the lessons of the cloud-native shift",
+      "link": "https://www.dynatrace.com/news/blog/want-to-catch-the-ai-native-wave-learn-the-lessons-of-the-cloud-native-shift/",
+      "publishedAt": "2025-11-24T18:35:51.000Z",
+      "author": "Klint Finley",
+      "summary": "From the personal computer to the internet to mobile and cloud native, transformative technologies bring new challenges and opportunities. While every innovation is different, Pini Reznik says there are patterns that can be applied when adopting any new technology. In the latest…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/BAE-RC-Pure-Performance-800x450-1-600x338.png",
+      "categories": [
+        "cloud-native",
+        "devops"
+      ],
+      "tags": [
+        "Cloud native",
+        "DevOps",
+        "AI",
+        "AI adoption",
+        "cloud native",
+        "PurePerformance"
+      ],
+      "search": "want to catch the ai native wave? learn the lessons of the cloud-native shift from the personal computer to the internet to mobile and cloud native, transformative technologies bring new challenges and opportunities. while every innovation is different, pini reznik says there are patterns that can be applied when adopting any new technology. in the latest… cloud native devops ai ai adoption cloud native pureperformance"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71944",
+      "title": "How to build workflows that catch bugs early and keep code moving",
+      "link": "https://www.dynatrace.com/news/blog/how-to-build-workflows-that-catch-bugs-early-and-keep-code-moving/",
+      "publishedAt": "2025-11-20T14:47:49.000Z",
+      "author": "Klint Finley",
+      "summary": "Observability isn’t just about collecting data. It’s about connecting the dots across your stack to answer why something is broken, not just what is broken. For developers, this means the ability to ask ad-hoc questions about live systems and get answers fast enough to change…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/Dev-guide-to-obsv-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "Engineering",
+        "Observability",
+        "developer observability"
+      ],
+      "search": "how to build workflows that catch bugs early and keep code moving observability isn’t just about collecting data. it’s about connecting the dots across your stack to answer why something is broken, not just what is broken. for developers, this means the ability to ask ad-hoc questions about live systems and get answers fast enough to change… devops engineering observability developer observability"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71931",
+      "title": "Ingest and enrich SonarQube security and quality findings with Dynatrace",
+      "link": "https://www.dynatrace.com/news/blog/ingest-and-enrich-sonarqube-security-and-quality-findings-with-dynatrace/",
+      "publishedAt": "2025-11-19T16:08:45.000Z",
+      "author": "Valeriy Leykin",
+      "summary": "Dynatrace integrates with SonarQube to ingest vulnerability findings, quality metrics, and audit logs, helping DevSecOps teams reduce alert noise and focus remediation efforts on what truly matters in production. Dynatrace unifies and enriches the ingested findings with runtime…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/Blog-OTP-0309_SonarQube-Integration_2x-600x338.png",
+      "categories": [
+        "application-security"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "AppSec",
+        "Integration",
+        "SonarQube"
+      ],
+      "search": "ingest and enrich sonarqube security and quality findings with dynatrace dynatrace integrates with sonarqube to ingest vulnerability findings, quality metrics, and audit logs, helping devsecops teams reduce alert noise and focus remediation efforts on what truly matters in production. dynatrace unifies and enriches the ingested findings with runtime… application security product news appsec integration sonarqube"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71886",
+      "title": "Accelerate your autonomous IT operations journey with Dynatrace and ServiceNow integrations",
+      "link": "https://www.dynatrace.com/news/blog/accelerate-your-autonomous-it-operations-journey-with-dynatrace-and-servicenow-integrations/",
+      "publishedAt": "2025-11-17T15:41:13.000Z",
+      "author": "Sanara Marsh",
+      "summary": "For many teams, the path to automation starts with connecting data and workflows across platforms. Dynatrace and ServiceNow make that possible. Through a growing set of integrations, customers can seamlessly connect both platforms to create incidents, enrich CMDB data, and…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/02/servicenow-dark-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "Automation",
+        "ITOps",
+        "ServiceNow"
+      ],
+      "search": "accelerate your autonomous it operations journey with dynatrace and servicenow integrations for many teams, the path to automation starts with connecting data and workflows across platforms. dynatrace and servicenow make that possible. through a growing set of integrations, customers can seamlessly connect both platforms to create incidents, enrich cmdb data, and… partners automation itops servicenow"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71870",
+      "title": "AI’s biggest impact isn’t cranking out more code: Why DevEx matters",
+      "link": "https://www.dynatrace.com/news/blog/ais-biggest-impact-isnt-cranking-out-more-code-why-devex-matters/",
+      "publishedAt": "2025-11-13T16:00:47.000Z",
+      "author": "Klint Finley",
+      "summary": "Developer experience (DevEx) is more than ping pong tables and free snacks. It’s the foundation for building great software. As AI reshapes the way we code, the real opportunity lies not in writing code faster, but in creating environments where developers can do their best…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/11/Blog_-OTP-0214_-high-res-version-600x338.png",
+      "categories": [
+        "devops"
+      ],
+      "tags": [
+        "DevOps",
+        "AI",
+        "DevEx",
+        "PurePerformance"
+      ],
+      "search": "ai’s biggest impact isn’t cranking out more code: why devex matters developer experience (devex) is more than ping pong tables and free snacks. it’s the foundation for building great software. as ai reshapes the way we code, the real opportunity lies not in writing code faster, but in creating environments where developers can do their best… devops ai devex pureperformance"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71807",
+      "title": "Microsoft Ignite 2025: Turn complexity into a strategic asset in the age of AI",
+      "link": "https://www.dynatrace.com/news/blog/microsoft-ignite-2025-turn-complexity-into-a-strategic-asset-in-the-age-of-ai/",
+      "publishedAt": "2025-11-13T13:50:47.000Z",
+      "author": "Nick Rando",
+      "summary": "Editor’s Note Microsoft Ignite represents more than just another industry conference. It’s where the future of enterprise technology takes shape. This year’s event showcases the intersection of cloud innovation and artificial intelligence — and the strategic partnerships making…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2024/06/BAE3176_RC_SolutionPartners_Cobrand_DARK_Microsoft_800x450_FINAL_webready-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Partners",
+        "Microsoft",
+        "Microsoft ignite",
+        "partners"
+      ],
+      "search": "microsoft ignite 2025: turn complexity into a strategic asset in the age of ai editor’s note microsoft ignite represents more than just another industry conference. it’s where the future of enterprise technology takes shape. this year’s event showcases the intersection of cloud innovation and artificial intelligence — and the strategic partnerships making… partners microsoft microsoft ignite partners"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71754",
+      "title": "Intelligence in, intelligence out: How Dynatrace and ServiceNow are powering autonomous IT",
+      "link": "https://www.dynatrace.com/news/blog/how-dynatrace-and-servicenow-are-powering-autonomous-it/",
+      "publishedAt": "2025-11-10T17:04:36.000Z",
+      "author": "Bob Wambach",
+      "summary": "Key insights: Why it matters. Traditional IT operations are caught in a reactive cycle of alerts, tickets, and manual fixes that slow innovation, drive up costs, and drain resources. What’s new. The Dynatrace and ServiceNow partnership introduces a new model for autonomous IT…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/servicenow-lead-image-600x337.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Observability",
+        "Partners",
+        "autonomous IT",
+        "multicloud enviornment",
+        "ServiceNow"
+      ],
+      "search": "intelligence in, intelligence out: how dynatrace and servicenow are powering autonomous it key insights: why it matters. traditional it operations are caught in a reactive cycle of alerts, tickets, and manual fixes that slow innovation, drive up costs, and drain resources. what’s new. the dynatrace and servicenow partnership introduces a new model for autonomous it… observability partners autonomous it multicloud enviornment servicenow"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71678",
+      "title": "From anomaly to root cause in under a minute",
+      "link": "https://www.dynatrace.com/news/blog/from-anomaly-to-root-cause-in-under-a-minute/",
+      "publishedAt": "2025-11-04T15:23:39.000Z",
+      "author": "Cezary Tomaszewski",
+      "summary": "Learn how Dynatrace unifies synthetic monitoring, traces, and logs for instant insights.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/11/Blog-OTP-0289_Observability-for-Agentic-AI_2x-600x338.png",
+      "categories": [
+        "digital-experience"
+      ],
+      "tags": [
+        "Digital experience",
+        "Engineering",
+        "anomaly detection",
+        "Backend Tracing",
+        "Digital Experience Monitoring",
+        "Distributed Traces",
+        "Synthetic"
+      ],
+      "search": "from anomaly to root cause in under a minute learn how dynatrace unifies synthetic monitoring, traces, and logs for instant insights. digital experience engineering anomaly detection backend tracing digital experience monitoring distributed traces synthetic"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71650",
+      "title": "Dynatrace® Apps showcase: Phenisys MS Teams Observability",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-apps-showcase-phenisys-ms-teams-observability/",
+      "publishedAt": "2025-10-30T16:54:08.000Z",
+      "author": "Miriam Derenbach",
+      "summary": "Phenisys, a French IT consulting firm and Premier Dynatrace® Sales Partner, has been dedicated to IT observability and application observability for over 20 years. Their deep expertise in performance optimization—through audits, strategic consulting, and seamless…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/10/Blog-OTP-0303_Microsoft-Teams-Observability_1x-600x338.png",
+      "categories": [
+        "partners"
+      ],
+      "tags": [
+        "Observability",
+        "Partners",
+        "Product news",
+        "AppEngine",
+        "custom solutions"
+      ],
+      "search": "dynatrace® apps showcase: phenisys ms teams observability phenisys, a french it consulting firm and premier dynatrace® sales partner, has been dedicated to it observability and application observability for over 20 years. their deep expertise in performance optimization—through audits, strategic consulting, and seamless… observability partners product news appengine custom solutions"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71601",
+      "title": "Dynatrace® named a Leader in 2025 Gartner® Magic Quadrant™ for Digital Experience Monitoring",
+      "link": "https://www.dynatrace.com/news/blog/2025-gartner-magic-quadrant-digital-experience-monitoring/",
+      "publishedAt": "2025-10-29T16:30:44.000Z",
+      "author": "Carry Hawes",
+      "summary": "For the second year running, Dynatrace is named a Leader, and in 2025, positioned furthest for Completeness of Vision.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/10/BAE20664_RC_GartnerMQ25_DEM_BlogImage_800x450-600x338.jpg",
+      "categories": [
+        "digital-experience"
+      ],
+      "tags": [
+        "Digital experience",
+        "DEM",
+        "Digital Experience Monitoring",
+        "Gartner",
+        "Gartner Magic Quadrant"
+      ],
+      "search": "dynatrace® named a leader in 2025 gartner® magic quadrant™ for digital experience monitoring for the second year running, dynatrace is named a leader, and in 2025, positioned furthest for completeness of vision. digital experience dem digital experience monitoring gartner gartner magic quadrant"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?post_type=analyst-reports&p=66346",
+      "title": "2025 Gartner® Magic Quadrant™ for Digital Experience Monitoring",
+      "link": "https://www.dynatrace.com/gartner-magic-quadrant-for-digital-experience-monitoring/",
+      "publishedAt": "2025-10-27T18:00:48.000Z",
+      "author": "Gerald Haydtner",
+      "summary": "",
+      "image": null,
+      "categories": [
+        "digital-experience"
+      ],
+      "tags": [
+        "Digital experience"
+      ],
+      "search": "2025 gartner® magic quadrant™ for digital experience monitoring digital experience"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=71523",
+      "title": "Dynatrace achieves QC1 certification from the Italian Agency for National Cybersecurity",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-achieves-qc1-certification-from-the-italian-agency-for-national-cybersecurity/",
+      "publishedAt": "2025-10-23T18:14:49.000Z",
+      "author": "Mira Kojic",
+      "summary": "We're pleased to announce that the Dynatrace® platform is now QC1 certified following the Italian Agency for National Cybersecurity (ACN) cloud qualification process. The cloud qualification process provided by the ACN is a qualification and control process aimed at ensuring the…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/10/Blog-OTP-0290_-ACN-certification-Italy_1x-600x338.png",
+      "categories": [
+        "company-culture"
+      ],
+      "tags": [
+        "Company and culture",
+        "Product news",
+        "ACN",
+        "compliance",
+        "Dynatrace",
+        "Security",
+        "trust center"
+      ],
+      "search": "dynatrace achieves qc1 certification from the italian agency for national cybersecurity we're pleased to announce that the dynatrace® platform is now qc1 certified following the italian agency for national cybersecurity (acn) cloud qualification process. the cloud qualification process provided by the acn is a qualification and control process aimed at ensuring the… company and culture product news acn compliance dynatrace security trust center"
+    }
+  ]
+};

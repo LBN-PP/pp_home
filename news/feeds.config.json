@@ -1,0 +1,35 @@
+{
+  "feedUrlTemplate": "https://www.dynatrace.com/news/category/{slug}/feed/",
+  "userAgent": "PacketPerf-NewsBot/1.0 (internal start page; GitHub Actions)",
+  "requestTimeoutMs": 20000,
+  "concurrency": 4,
+  "summaryMaxLength": 280,
+  "retention": {
+    "maxPerCategory": 60,
+    "maxAgeDays": 365
+  },
+  "categories": [
+    { "key": "ai", "label": "AI", "slug": "artificial-intelligence" },
+    { "key": "aiops", "label": "AIOps", "slug": "aiops" },
+    { "key": "application-security", "label": "Application security", "slug": "application-security" },
+    { "key": "apps-and-microservices", "label": "Apps and microservices", "slug": "apps-and-microservices" },
+    { "key": "automation", "label": "Automation", "slug": "automation" },
+    { "key": "cloud-native", "label": "Cloud native", "slug": "cloud-native" },
+    { "key": "company-culture", "label": "Company culture", "slug": "company-culture" },
+    { "key": "devops", "label": "DevOps", "slug": "devops" },
+    { "key": "digital-experience", "label": "Digital experience", "slug": "digital-experience" },
+    { "key": "digital-transformation", "label": "Digital transformation", "slug": "digital-transformation" },
+    { "key": "engineering", "label": "Engineering", "slug": "engineering" },
+    { "key": "infrastructure", "label": "Infrastructure", "slug": "infrastructure" },
+    { "key": "kubernetes", "label": "Kubernetes", "slug": "kubernetes" },
+    { "key": "log-management-and-analytics", "label": "Log management and analytics", "slug": "log-management-and-analytics" },
+    { "key": "observability", "label": "Observability", "slug": "observability" },
+    { "key": "open-source", "label": "Open source", "slug": "open-source" },
+    { "key": "partners", "label": "Partners", "slug": "partners" },
+    { "key": "product-news", "label": "Product news", "slug": "product-news" },
+    { "key": "release-notes", "label": "Release notes", "slug": "release-notes" },
+    { "key": "threat-research", "label": "Threat research", "slug": "threat-research" },
+    { "key": "tips-and-tricks", "label": "Tips and tricks", "slug": "tips-and-tricks" },
+    { "key": "vulnerability-insights", "label": "Vulnerability insights", "slug": "vulnerability-insights" }
+  ]
+}

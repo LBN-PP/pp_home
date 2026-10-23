@@ -1,0 +1,16 @@
+{
+  "name": "dynatrace-news-aggregator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aggregates Dynatrace news RSS feeds by category into a static JSON file served by GitHub Pages.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "node fetch-news.mjs"
+  },
+  "dependencies": {
+    "fast-xml-parser": "5.11.2"
+  }
+}

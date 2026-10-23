@@ -1,0 +1,106 @@
+name: Dynatrace news
+
+on:
+  schedule:
+    # Every hour at :17 — top-of-the-hour slots are congested and often delayed.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "news/**"
+      - "site/**"
+      - ".github/workflows/dynatrace-news.yml"
+
+permissions:
+  contents: read
+
+# Never run two updates at once (schedule + push could overlap).
+concurrency:
+  group: dynatrace-news
+  cancel-in-progress: false
+
+jobs:
+  update:
+    name: Fetch feeds and commit JSON
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    outputs:
+      news_changed: ${{ steps.fetch.outputs.news_changed }}
+      sha: ${{ steps.commit.outputs.sha }}
+    steps:
+      - name: Checkout (project folders only)
+        uses: actions/checkout@v7
+        with:
+          sparse-checkout: |
+            news
+            site
+            .github
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
+        with:
+          node-version: 24
+          cache: npm
+          cache-dependency-path: news/package-lock.json
+
+      - name: Install dependencies
+        working-directory: news
+        run: npm ci --ignore-scripts --no-audit --no-fund
+
+      - name: Fetch and merge feeds
+        id: fetch
+        working-directory: news
+        run: node fetch-news.mjs
+
+      - name: Commit updated files
+        id: commit
+        if: steps.fetch.outputs.news_changed == 'true' || steps.fetch.outputs.meta_changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A -- site/data news
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "chore(news): update Dynatrace news [skip ci]"
+          # Someone may have pushed while we were fetching: replay our commit on top.
+          git pull --rebase --quiet origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  deploy:
+    name: Deploy to GitHub Pages
+    needs: update
+    # Scheduled runs deploy only when the news changed; manual runs and pushes always deploy.
+    if: needs.update.outputs.news_changed == 'true' || github.event_name != 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Checkout the published folder
+        uses: actions/checkout@v7
+        with:
+          # The commit made by the update job, if any; otherwise the triggering commit.
+          ref: ${{ needs.update.outputs.sha || github.sha }}
+          sparse-checkout: site
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v6
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v5

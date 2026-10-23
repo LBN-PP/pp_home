@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PacketPerf Home</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <img class="brand-mark" src="assets/logo-mark.png" alt="">
+    <div class="brand-text">
+      <span class="brand-name">Packet<strong>Perf</strong></span>
+      <span class="brand-tagline" id="site-tagline">Dynatrace news hub</span>
+    </div>
+  </div>
+  <time class="live-clock" id="live-clock"></time>
+</header>
+
+<div class="shortcuts-bar">
+  <nav class="shortcuts" id="shortcuts" aria-label="Liens rapides"></nav>
+</div>
+
+<main class="layout">
+
+  <section class="main-col">
+    <div class="controls">
+      <div class="search-row">
+        <div class="search-box">
+          <svg viewBox="0 0 24 24" class="search-icon" aria-hidden="true">
+            <circle cx="11" cy="11" r="7" fill="none" stroke="currentColor" stroke-width="2"/>
+            <line x1="16.5" y1="16.5" x2="21" y2="21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+          </svg>
+          <input type="search" id="search-input" placeholder="Rechercher un article, un tag, un mot-clé…" autocomplete="off">
+        </div>
+
+        <div class="filter-wrap" id="filter-wrap">
+          <button type="button" class="filter-btn" id="filter-btn" aria-haspopup="true" aria-expanded="false">
+            <svg viewBox="0 0 24 24" class="filter-icon" aria-hidden="true">
+              <line x1="4" y1="6" x2="20" y2="6" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              <line x1="7" y1="12" x2="17" y2="12" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+              <line x1="10" y1="18" x2="14" y2="18" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+            <span class="filter-btn-badge" id="filter-btn-badge" hidden></span>
+          </button>
+
+          <div class="filter-menu" id="filter-menu" hidden>
+            <div class="filter-menu-head">
+              <span>Filtrer par type</span>
+              <button type="button" class="filter-reset" id="filter-reset">Réinitialiser</button>
+            </div>
+            <div class="filter-menu-chips" id="filter-menu-chips"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="section-head">
+      <h2 id="articles-title">Toutes les actualités</h2>
+      <span class="result-count" id="result-count"></span>
+    </div>
+    <div class="articles-grid" id="articles-grid"></div>
+    <p class="empty-state" id="empty-state" hidden>Aucun résultat pour cette recherche.</p>
+  </section>
+
+  <aside class="side-col">
+    <div class="releases-widget" id="releases-widget">
+      <div class="widget-head">
+        <span class="dot-pulse"></span>
+        <h2>Dernières releases</h2>
+        <span class="new-badge-count" id="releases-new-badge" hidden></span>
+      </div>
+      <div class="releases-list" id="releases-list"></div>
+    </div>
+
+    <div class="category-nav" id="category-nav"></div>
+  </aside>
+
+</main>
+
+<footer>
+  <span id="generated-at"></span>
+  <span class="sep">·</span>
+  <a id="source-link" href="https://www.dynatrace.com/news/" target="_blank" rel="noopener">Source</a>
+</footer>
+
+<script src="config.js"></script>
+<script src="site/data/news.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
