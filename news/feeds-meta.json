@@ -2,113 +2,113 @@
   "feeds": {
     "ai": {
       "url": "https://www.dynatrace.com/news/category/artificial-intelligence/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "aiops": {
       "url": "https://www.dynatrace.com/news/category/aiops/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "application-security": {
       "url": "https://www.dynatrace.com/news/category/application-security/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "apps-and-microservices": {
       "url": "https://www.dynatrace.com/news/category/apps-and-microservices/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "automation": {
       "url": "https://www.dynatrace.com/news/category/automation/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "cloud-native": {
       "url": "https://www.dynatrace.com/news/category/cloud-native/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "company-culture": {
       "url": "https://www.dynatrace.com/news/category/company-culture/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "devops": {
       "url": "https://www.dynatrace.com/news/category/devops/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "digital-experience": {
       "url": "https://www.dynatrace.com/news/category/digital-experience/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "digital-transformation": {
       "url": "https://www.dynatrace.com/news/category/digital-transformation/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "engineering": {
       "url": "https://www.dynatrace.com/news/category/engineering/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "infrastructure": {
       "url": "https://www.dynatrace.com/news/category/infrastructure/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "kubernetes": {
       "url": "https://www.dynatrace.com/news/category/kubernetes/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "log-management-and-analytics": {
       "url": "https://www.dynatrace.com/news/category/log-management-and-analytics/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "observability": {
       "url": "https://www.dynatrace.com/news/category/observability/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "open-source": {
       "url": "https://www.dynatrace.com/news/category/open-source/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "partners": {
       "url": "https://www.dynatrace.com/news/category/partners/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "product-news": {
       "url": "https://www.dynatrace.com/news/category/product-news/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "release-notes": {
       "url": "https://www.dynatrace.com/news/category/release-notes/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "threat-research": {
       "url": "https://www.dynatrace.com/news/category/threat-research/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "tips-and-tricks": {
       "url": "https://www.dynatrace.com/news/category/tips-and-tricks/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     },
     "vulnerability-insights": {
       "url": "https://www.dynatrace.com/news/category/vulnerability-insights/feed/",
-      "etag": "\"6906022d129af96a1d70ba2cd593d8c8\"",
-      "lastModified": "Sun, 25 Oct 2026 16:55:46 GMT"
+      "etag": "\"296187fe7f51cb54d7b3464fcc0aa4ed\"",
+      "lastModified": "Mon, 26 Oct 2026 12:52:05 GMT"
     }
   }
 }
