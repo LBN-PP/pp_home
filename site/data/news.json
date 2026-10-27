@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-23T18:19:55.615Z",
+  "generatedAt": "2026-10-27T21:17:58.421Z",
   "source": "https://www.dynatrace.com/news/",
   "categories": [
     {
@@ -46,7 +46,7 @@
     {
       "key": "digital-experience",
       "label": "Digital experience",
-      "count": 9
+      "count": 8
     },
     {
       "key": "digital-transformation",
@@ -3677,22 +3677,6 @@
         "Gartner Magic Quadrant"
       ],
       "search": "dynatrace® named a leader in 2025 gartner® magic quadrant™ for digital experience monitoring for the second year running, dynatrace is named a leader, and in 2025, positioned furthest for completeness of vision. digital experience dem digital experience monitoring gartner gartner magic quadrant"
-    },
-    {
-      "id": "https://www.dynatrace.com/news/?post_type=analyst-reports&p=66346",
-      "title": "2025 Gartner® Magic Quadrant™ for Digital Experience Monitoring",
-      "link": "https://www.dynatrace.com/gartner-magic-quadrant-for-digital-experience-monitoring/",
-      "publishedAt": "2025-10-27T18:00:48.000Z",
-      "author": "Gerald Haydtner",
-      "summary": "",
-      "image": null,
-      "categories": [
-        "digital-experience"
-      ],
-      "tags": [
-        "Digital experience"
-      ],
-      "search": "2025 gartner® magic quadrant™ for digital experience monitoring digital experience"
     }
   ]
 }
