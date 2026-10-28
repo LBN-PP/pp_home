@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T21:17:58.421Z",
+  "generatedAt": "2026-10-28T08:28:00.358Z",
   "source": "https://www.dynatrace.com/news/",
   "categories": [
     {
@@ -91,12 +91,12 @@
     {
       "key": "product-news",
       "label": "Product news",
-      "count": 25
+      "count": 29
     },
     {
       "key": "release-notes",
       "label": "Release notes",
-      "count": 24
+      "count": 28
     },
     {
       "key": "threat-research",
@@ -115,6 +115,26 @@
     }
   ],
   "articles": [
+    {
+      "id": "https://www.dynatrace.com/news/?p=75709",
+      "title": "What’s new in Dynatrace SaaS version 1.349",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-349/",
+      "publishedAt": "2026-10-27T07:06:03.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.349. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.349 we have released dynatrace version 1.349. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
     {
       "id": "https://www.dynatrace.com/news/?p=75686",
       "title": "Vulnerability risk exposure: See exposure across monitored processes at runtime",
@@ -313,6 +333,26 @@
       "search": "dynatrace reaches fedramp class d (high) initial implementation status the marketplace designation gives federal agencies a clearer basis for planning around the latest dynatrace platform while certification work continues. company and culture product news cloud modernization federal government fedramp observability public sector"
     },
     {
+      "id": "https://www.dynatrace.com/news/?p=75707",
+      "title": "What’s new in Dynatrace SaaS version 1.348",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-348/",
+      "publishedAt": "2026-10-12T07:02:16.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.348. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.348 we have released dynatrace version 1.348. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
+    },
+    {
       "id": "https://www.dynatrace.com/news/?p=75553",
       "title": "Contain, observe, adapt: Three trends shaping agentic software development",
       "link": "https://www.dynatrace.com/news/blog/three-trends-shaping-agentic-software-development/",
@@ -431,6 +471,26 @@
       "search": "dynatrace completes acquisition of arize to advance full-lifecycle ai observability dynatrace has completed its acquisition of arize. the acquisition combines arize’s ai-native tracing, evaluation, and experimentation capabilities with dynatrace observability across applications, infrastructure, user experiences, and business processes. together, these… company and culture ai ai agents ai monitoring ai observability company llm observability"
     },
     {
+      "id": "https://www.dynatrace.com/news/?p=75711",
+      "title": "OneAgent release notes version 1.347",
+      "link": "https://www.dynatrace.com/news/blog/oneagent-release-notes-version-1-347/",
+      "publishedAt": "2026-09-30T07:09:44.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace OneAgent and ActiveGate version 1.347. To learn what’s new, have a look at: OneAgent release notes ActiveGate release notes",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/05/OneAgent_ProductNotes_v2-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "OneAgent",
+        "What's new"
+      ],
+      "search": "oneagent release notes version 1.347 we have released dynatrace oneagent and activegate version 1.347. to learn what’s new, have a look at: oneagent release notes activegate release notes product news release notes oneagent what's new"
+    },
+    {
       "id": "https://www.dynatrace.com/news/?p=75477",
       "title": "A design refresh for every Dynatrace App, including yours",
       "link": "https://www.dynatrace.com/news/blog/a-design-refresh-for-every-dynatrace-app-including-yours/",
@@ -541,6 +601,26 @@
         "platform engineering"
       ],
       "search": "your pod may be requesting 25× more cpu than you think — and kubernetes won’t tell you you’ve run kubectl describe pod. your dashboard shows 40 millicores requested for the api-server container. you probably assumed your monitoring had the full picture. the kubernetes scheduler actually reserved 1000 millicores — a full cpu core — for it. how could both values be… engineering kubernetes observability kubernetes platform engineering"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75705",
+      "title": "What’s new in Dynatrace SaaS version 1.347",
+      "link": "https://www.dynatrace.com/news/blog/whats-new-in-dynatrace-saas-version-1-347/",
+      "publishedAt": "2026-09-16T06:58:10.000Z",
+      "author": "Malcolm Davidson",
+      "summary": "We have released Dynatrace version 1.347. To learn what’s new, have a look at the release notes.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2023/04/SaaS_Release_notes_3-600x338.png",
+      "categories": [
+        "product-news",
+        "release-notes"
+      ],
+      "tags": [
+        "Product news",
+        "Release notes",
+        "SaaS",
+        "What's new"
+      ],
+      "search": "what’s new in dynatrace saas version 1.347 we have released dynatrace version 1.347. to learn what’s new, have a look at the release notes. product news release notes saas what's new"
     },
     {
       "id": "https://www.dynatrace.com/news/?p=75410",
