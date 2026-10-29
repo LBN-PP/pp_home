@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-28T08:28:00.358Z",
+  "generatedAt": "2026-10-29T19:40:34.081Z",
   "source": "https://www.dynatrace.com/news/",
   "categories": [
     {
       "key": "ai",
       "label": "AI",
-      "count": 24
+      "count": 25
     },
     {
       "key": "aiops",
@@ -16,7 +16,7 @@
     {
       "key": "application-security",
       "label": "Application security",
-      "count": 18
+      "count": 19
     },
     {
       "key": "apps-and-microservices",
@@ -46,7 +46,7 @@
     {
       "key": "digital-experience",
       "label": "Digital experience",
-      "count": 8
+      "count": 7
     },
     {
       "key": "digital-transformation",
@@ -76,7 +76,7 @@
     {
       "key": "observability",
       "label": "Observability",
-      "count": 24
+      "count": 25
     },
     {
       "key": "open-source",
@@ -91,7 +91,7 @@
     {
       "key": "product-news",
       "label": "Product news",
-      "count": 29
+      "count": 31
     },
     {
       "key": "release-notes",
@@ -115,6 +115,53 @@
     }
   ],
   "articles": [
+    {
+      "id": "https://www.dynatrace.com/news/?p=75723",
+      "title": "Dynatrace unifies AI Observability ingest across coding agents, OneAgent, and OpenInference",
+      "link": "https://www.dynatrace.com/news/blog/dynatrace-unifies-ai-observability-ingest-across-coding-agents-oneagent-and-openinference/",
+      "publishedAt": "2026-10-29T18:40:26.000Z",
+      "author": "Kristof Muhi",
+      "summary": "Dynatrace is expanding AI Observability data ingestion options across coding agents, Python-based LLM applications through OneAgent, and OpenInference-instrumented frameworks, so teams can bring all their AI telemetry into one place. That means faster setup, no forced…",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2026/06/Blog-OTP-Observability-for-Agentic-AI-600x338.png",
+      "categories": [
+        "ai",
+        "observability",
+        "product-news"
+      ],
+      "tags": [
+        "AI",
+        "Observability",
+        "Product news",
+        "AI agents",
+        "AI Observability",
+        "Arize",
+        "coding agent",
+        "LLM",
+        "OneAgent",
+        "OpenInference"
+      ],
+      "search": "dynatrace unifies ai observability ingest across coding agents, oneagent, and openinference dynatrace is expanding ai observability data ingestion options across coding agents, python-based llm applications through oneagent, and openinference-instrumented frameworks, so teams can bring all their ai telemetry into one place. that means faster setup, no forced… ai observability product news ai agents ai observability arize coding agent llm oneagent openinference"
+    },
+    {
+      "id": "https://www.dynatrace.com/news/?p=75182",
+      "title": "Surface vulnerabilities in your AI services",
+      "link": "https://www.dynatrace.com/news/blog/surface-vulnerabilities-in-your-ai-services/",
+      "publishedAt": "2026-10-29T18:03:00.000Z",
+      "author": "Stefan Achleitner",
+      "summary": "A new ready-made dashboard surfaces AI service vulnerabilities detected at runtime.",
+      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/02/Blog__Application_Security-600x338.png",
+      "categories": [
+        "application-security",
+        "product-news"
+      ],
+      "tags": [
+        "Application security",
+        "Product news",
+        "AI Observability",
+        "Application Security"
+      ],
+      "search": "surface vulnerabilities in your ai services a new ready-made dashboard surfaces ai service vulnerabilities detected at runtime. application security product news ai observability application security"
+    },
     {
       "id": "https://www.dynatrace.com/news/?p=75709",
       "title": "What’s new in Dynatrace SaaS version 1.349",
@@ -3737,26 +3784,6 @@
         "custom solutions"
       ],
       "search": "dynatrace® apps showcase: phenisys ms teams observability phenisys, a french it consulting firm and premier dynatrace® sales partner, has been dedicated to it observability and application observability for over 20 years. their deep expertise in performance optimization—through audits, strategic consulting, and seamless… observability partners product news appengine custom solutions"
-    },
-    {
-      "id": "https://www.dynatrace.com/news/?p=71601",
-      "title": "Dynatrace® named a Leader in 2025 Gartner® Magic Quadrant™ for Digital Experience Monitoring",
-      "link": "https://www.dynatrace.com/news/blog/2025-gartner-magic-quadrant-digital-experience-monitoring/",
-      "publishedAt": "2025-10-29T16:30:44.000Z",
-      "author": "Carry Hawes",
-      "summary": "For the second year running, Dynatrace is named a Leader, and in 2025, positioned furthest for Completeness of Vision.",
-      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/10/BAE20664_RC_GartnerMQ25_DEM_BlogImage_800x450-600x338.jpg",
-      "categories": [
-        "digital-experience"
-      ],
-      "tags": [
-        "Digital experience",
-        "DEM",
-        "Digital Experience Monitoring",
-        "Gartner",
-        "Gartner Magic Quadrant"
-      ],
-      "search": "dynatrace® named a leader in 2025 gartner® magic quadrant™ for digital experience monitoring for the second year running, dynatrace is named a leader, and in 2025, positioned furthest for completeness of vision. digital experience dem digital experience monitoring gartner gartner magic quadrant"
     }
   ]
 }
