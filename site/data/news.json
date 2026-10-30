@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-29T19:40:34.081Z",
+  "generatedAt": "2026-10-30T18:36:14.397Z",
   "source": "https://www.dynatrace.com/news/",
   "categories": [
     {
@@ -86,7 +86,7 @@
     {
       "key": "partners",
       "label": "Partners",
-      "count": 24
+      "count": 23
     },
     {
       "key": "product-news",
@@ -3764,26 +3764,6 @@
         "Synthetic"
       ],
       "search": "from anomaly to root cause in under a minute learn how dynatrace unifies synthetic monitoring, traces, and logs for instant insights. digital experience engineering anomaly detection backend tracing digital experience monitoring distributed traces synthetic"
-    },
-    {
-      "id": "https://www.dynatrace.com/news/?p=71650",
-      "title": "Dynatrace® Apps showcase: Phenisys MS Teams Observability",
-      "link": "https://www.dynatrace.com/news/blog/dynatrace-apps-showcase-phenisys-ms-teams-observability/",
-      "publishedAt": "2025-10-30T16:54:08.000Z",
-      "author": "Miriam Derenbach",
-      "summary": "Phenisys, a French IT consulting firm and Premier Dynatrace® Sales Partner, has been dedicated to IT observability and application observability for over 20 years. Their deep expertise in performance optimization—through audits, strategic consulting, and seamless…",
-      "image": "https://news.cdn.dm.dynatrace.com/wp-content/uploads/2025/10/Blog-OTP-0303_Microsoft-Teams-Observability_1x-600x338.png",
-      "categories": [
-        "partners"
-      ],
-      "tags": [
-        "Observability",
-        "Partners",
-        "Product news",
-        "AppEngine",
-        "custom solutions"
-      ],
-      "search": "dynatrace® apps showcase: phenisys ms teams observability phenisys, a french it consulting firm and premier dynatrace® sales partner, has been dedicated to it observability and application observability for over 20 years. their deep expertise in performance optimization—through audits, strategic consulting, and seamless… observability partners product news appengine custom solutions"
     }
   ]
 }
